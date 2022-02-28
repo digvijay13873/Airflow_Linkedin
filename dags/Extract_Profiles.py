@@ -67,7 +67,7 @@ def extract():
                 file_name = name+'.txt.txt'
 
                 # creating filepath for each file to read file
-                file_path = "./data/New folder/"+file_name
+                file_path = "./data/linkedin_source/"+file_name
 
                 # opening file and reading it
                 try: 
