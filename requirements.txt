@@ -1,0 +1,13 @@
+
+pandas
+celery
+numpy
+nltk
+alpha-vantage
+selenium
+datetime
+psycopg2
+regex
+xlwt
+linkedin
+beautifulSoup4

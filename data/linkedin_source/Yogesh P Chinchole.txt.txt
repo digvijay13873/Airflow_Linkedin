@@ -1,0 +1,4645 @@
+<html lang="en"><head>
+        <meta name="pageKey" content="public_profile_v3_desktop">
+          <meta name="linkedin:pageTag" content="nonCanonical">
+        <meta name="locale" content="en_US">
+        <meta id="config" data-app-version="2.0.540" data-call-tree-id="AAXYB3M6Mfgp073nAStoWA==" data-multiproduct-name="public-profile-frontend" data-service-name="public-profile-frontend" data-browser-id="2e0304ec-bcc6-410d-8bb4-cb2a69d38c59" data-enable-core-web-tracking="" data-enable-page-view-heartbeat-tracking="">
+        <link rel="canonical" href="https://in.linkedin.com/in/yogeshpchinchole">
+<!----><!---->
+<!---->
+          <meta property="al:android:url" content="https://in.linkedin.com/in/yogeshpchinchole">
+          <meta property="al:android:package" content="com.linkedin.android">
+          <meta property="al:android:app_name" content="LinkedIn">
+          <meta property="al:ios:url" content="https://in.linkedin.com/in/yogeshpchinchole">
+          <meta property="al:ios:app_store_id" content="288429040">
+          <meta property="al:ios:app_name" content="LinkedIn">
+
+<!---->
+          <link rel="icon" href="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
+
+          <script>
+            function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+            window.lazyloader = getDfd();
+            window.tracking = getDfd();
+            window.impressionTracking = getDfd();
+            window.ingraphTracking = getDfd();
+            window.appDetection = getDfd();
+            window.pemTracking = getDfd();
+          </script>
+
+<!---->
+        
+        <title>Yogesh P Chinchole - Quality Assurance Manager - FIS | LinkedIn</title>
+
+        
+
+    
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="litmsProfileName" content="public-profile-frontend">
+
+      <meta name="ubba" content="https://static-exp1.licdn.com/sc/h/ab7mat909m95871bijftbooko">
+
+      <meta name="platform" content="https://static-exp1.licdn.com/sc/h/8kye97wl49pvzenw4a5frwm70">
+      <meta name="platform-worker" content="https://static-exp1.licdn.com/sc/h/7nirg34a8ey4y2l4rw7xgwxx4">
+    
+
+    
+    
+    
+    
+
+        <meta name="description" content="View Yogesh P Chinchole’s profile on LinkedIn, the world’s largest professional community. Yogesh P has 10 jobs listed on their profile. See the complete profile on LinkedIn and discover Yogesh P’S connections and jobs at similar companies.">
+        <meta name="og:description" content="View Yogesh P Chinchole’s profile on LinkedIn, the world’s largest professional community. Yogesh P has 10 jobs listed on their profile. See the complete profile on LinkedIn and discover Yogesh P’S connections and jobs at similar companies.">
+        <meta name="twitter:description" content="View Yogesh P Chinchole’s profile on LinkedIn, the world’s largest professional community. Yogesh P has 10 jobs listed on their profile. See the complete profile on LinkedIn and discover Yogesh P’S connections and jobs at similar companies.">
+
+    <meta property="og:title" content="Yogesh P Chinchole - Quality Assurance Manager - FIS | LinkedIn">
+    <meta property="og:image" content="https://media-exp1.licdn.com/dms/image/C4D03AQEc4ySKBrFTFw/profile-displayphoto-shrink_200_200/0/1516893179654?e=1650499200&amp;v=beta&amp;t=s3qUahbe1wTypAAsfweqemxKyLId69y6BugXJ6yCwag">
+    <meta property="og:type" content="profile">
+
+      <meta property="profile:first_name" content="Yogesh P">
+
+      <meta property="profile:last_name" content="Chinchole">
+
+      <meta property="og:url" content="https://in.linkedin.com/in/yogeshpchinchole">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@Linkedin">
+    <meta name="twitter:title" content="Yogesh P Chinchole - Quality Assurance Manager - FIS | LinkedIn">
+    <meta name="twitter:image" content="https://media-exp1.licdn.com/dms/image/C4D03AQEc4ySKBrFTFw/profile-displayphoto-shrink_200_200/0/1516893179654?e=1650499200&amp;v=beta&amp;t=s3qUahbe1wTypAAsfweqemxKyLId69y6BugXJ6yCwag">
+
+<!---->
+<!---->
+      <meta name="linkedin:pageTag" content="nonCanonical">
+
+    <meta name="robots" content="noarchive">
+  
+
+          <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/public-profile/api/ingraphs/guestGauge" data-counter-metric-endpoint="/public-profile/api/ingraphs/counter">
+
+<!---->
+        <link rel="stylesheet" href="https://static-exp1.licdn.com/sc/h/dznm4ryhvgurnvt8uw6kh5dt9">
+
+        
+    <script type="application/ld+json">
+      {"@context":"http://schema.org","@graph":[{"@type":"Person","address":{"@type":"PostalAddress","addressLocality":"Pune, Maharashtra, India"},"alumniOf":[{"@type":"Organization","name":"Zenmonics Software Pvt Ltd"},{"@type":"Organization","name":"ACI Worldwide","url":"https://www.linkedin.com/company/aci-worldwide?trk=ppro_cprof"},{"@type":"Organization","name":"HSBC","url":"https://www.linkedin.com/company/hsbc?trk=ppro_cprof"},{"@type":"Organization","name":"IBM Global Business Services","url":"https://www.linkedin.com/company/ibm?trk=ppro_cprof"},{"@type":"Organization","name":"SABAND SOFTWARE TECHNOLOGIES PVT LTD","url":"https://www.linkedin.com/company/saband-software-technologies-pvt-ltd?trk=ppro_cprof"},{"@type":"Organization","name":"WNS Global Services","url":"https://www.linkedin.com/company/wns-global-services?trk=ppro_cprof"},{"@type":"Organization","name":"WNS Global services Pvt Ltd"},{"@type":"Organization","name":"Suman Nagari Co-Op"},{"@type":"EducationalOrganization","name":"North Maharashtra University","url":"https://www.linkedin.com/school/north-maharashtra-university/"},{"@type":"EducationalOrganization","name":"North Maharashtra University","url":"https://www.linkedin.com/school/north-maharashtra-university/"},{"@type":"EducationalOrganization","name":"North Maharashtra University","url":"https://www.linkedin.com/school/north-maharashtra-university/"},{"@type":"EducationalOrganization","name":"Nashik Board"},{"@type":"EducationalOrganization","name":"Nashik Board"}],"awards":[],"image":{"@type":"ImageObject","contentUrl":"https://media-exp1.licdn.com/dms/image/C4D03AQEc4ySKBrFTFw/profile-displayphoto-shrink_200_200/0/1516893179654?e=1650499200&v=beta&t=s3qUahbe1wTypAAsfweqemxKyLId69y6BugXJ6yCwag"},"jobTitle":["Quality Assurance Manager","Founder & CEO"],"name":"Yogesh P Chinchole","sameAs":"https://in.linkedin.com/in/yogeshpchinchole","url":"https://in.linkedin.com/in/yogeshpchinchole","worksFor":[{"@type":"Organization","name":"FIS","url":"https://www.linkedin.com/company/fis?trk=ppro_cprof"},{"@type":"Organization","name":"SuvarnaBandha Foundations"}]},{"@type":"WebPage","url":"https://in.linkedin.com/in/yogeshpchinchole","reviewedBy":{"@type":"Person","name":"Yogesh P Chinchole"}}]}
+    </script>
+  
+      
+      <script type="text/javascript" src="https://static-exp1.licdn.com/sc/h/ab7mat909m95871bijftbooko"></script><script type="text/javascript" src="https://static-exp1.licdn.com/sc/h/8kye97wl49pvzenw4a5frwm70"></script></head>
+      <body dir="ltr" style="margin-bottom: 88px; margin-top: 64px;">
+          
+          
+    
+
+      <a href="#main-content" class="skip-link">Skip to main content</a>
+  
+<!---->
+        
+        
+    
+    <header class="header global-alert-offset sticky-header show stuck">
+      
+        
+
+    
+    
+    
+
+    <nav class="nav nav--minified-mobile" aria-label="Primary">
+
+<!---->
+      <a href="/?trk=public_profile_nav-header-logo" class="nav__logo-link" data-tracking-control-name="public_profile_nav-header-logo" data-tracking-will-navigate="">
+          
+              
+    
+    <span class="sr-only">LinkedIn</span>
+      <icon class="nav-logo--mobile-inbug lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="27" width="27" viewBox="0 0 27 27" focusable="false" class="lazy-loaded">
+  <g fill="currentColor">
+    <path d="M1.91 0h22.363a1.91 1.91 0 011.909 1.91v22.363a1.91 1.91 0 01-1.91 1.909H1.91A1.91 1.91 0 010 24.272V1.91A1.91 1.91 0 011.91 0zm1.908 22.364h3.818V9.818H3.818zM8.182 5.727a2.455 2.455 0 10-4.91 0 2.455 2.455 0 004.91 0zm2.182 4.091v12.546h3.818v-6.077c0-2.037.75-3.332 2.553-3.332 1.3 0 1.81 1.201 1.81 3.332v6.077h3.819v-6.93c0-3.74-.895-5.78-4.667-5.78-1.967 0-3.277.921-3.788 1.946V9.818z" fill="currentColor" fill-rule="evenodd"></path>
+  </g>
+</svg></icon>
+    <icon class="nav-logo lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 84 21" preserveAspectRatio="xMinYMin meet" version="1.1" focusable="false" class="lazy-loaded">
+  <g class="inbug" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path d="M19.479,0 L1.583,0 C0.727,0 0,0.677 0,1.511 L0,19.488 C0,20.323 0.477,21 1.333,21 L19.229,21 C20.086,21 21,20.323 21,19.488 L21,1.511 C21,0.677 20.336,0 19.479,0" class="bug-text-color" transform="translate(63.000000, 0.000000)"></path>
+    <path d="M82.479,0 L64.583,0 C63.727,0 63,0.677 63,1.511 L63,19.488 C63,20.323 63.477,21 64.333,21 L82.229,21 C83.086,21 84,20.323 84,19.488 L84,1.511 C84,0.677 83.336,0 82.479,0 Z M71,8 L73.827,8 L73.827,9.441 L73.858,9.441 C74.289,8.664 75.562,7.875 77.136,7.875 C80.157,7.875 81,9.479 81,12.45 L81,18 L78,18 L78,12.997 C78,11.667 77.469,10.5 76.227,10.5 C74.719,10.5 74,11.521 74,13.197 L74,18 L71,18 L71,8 Z M66,18 L69,18 L69,8 L66,8 L66,18 Z M69.375,4.5 C69.375,5.536 68.536,6.375 67.5,6.375 C66.464,6.375 65.625,5.536 65.625,4.5 C65.625,3.464 66.464,2.625 67.5,2.625 C68.536,2.625 69.375,3.464 69.375,4.5 Z" class="background" fill="currentColor"></path>
+  </g>
+  <g class="linkedin-text">
+    <path d="M60,18 L57.2,18 L57.2,16.809 L57.17,16.809 C56.547,17.531 55.465,18.125 53.631,18.125 C51.131,18.125 48.978,16.244 48.978,13.011 C48.978,9.931 51.1,7.875 53.725,7.875 C55.35,7.875 56.359,8.453 56.97,9.191 L57,9.191 L57,3 L60,3 L60,18 Z M54.479,10.125 C52.764,10.125 51.8,11.348 51.8,12.974 C51.8,14.601 52.764,15.875 54.479,15.875 C56.196,15.875 57.2,14.634 57.2,12.974 C57.2,11.268 56.196,10.125 54.479,10.125 L54.479,10.125 Z" fill="currentColor"></path>
+    <path d="M47.6611,16.3889 C46.9531,17.3059 45.4951,18.1249 43.1411,18.1249 C40.0001,18.1249 38.0001,16.0459 38.0001,12.7779 C38.0001,9.8749 39.8121,7.8749 43.2291,7.8749 C46.1801,7.8749 48.0001,9.8129 48.0001,13.2219 C48.0001,13.5629 47.9451,13.8999 47.9451,13.8999 L40.8311,13.8999 L40.8481,14.2089 C41.0451,15.0709 41.6961,16.1249 43.1901,16.1249 C44.4941,16.1249 45.3881,15.4239 45.7921,14.8749 L47.6611,16.3889 Z M45.1131,11.9999 C45.1331,10.9449 44.3591,9.8749 43.1391,9.8749 C41.6871,9.8749 40.9121,11.0089 40.8311,11.9999 L45.1131,11.9999 Z" fill="currentColor"></path>
+    <polygon fill="currentColor" points="38 8 34.5 8 31 12 31 3 28 3 28 18 31 18 31 13 34.699 18 38.241 18 34 12.533"></polygon>
+    <path d="M16,8 L18.827,8 L18.827,9.441 L18.858,9.441 C19.289,8.664 20.562,7.875 22.136,7.875 C25.157,7.875 26,9.792 26,12.45 L26,18 L23,18 L23,12.997 C23,11.525 22.469,10.5 21.227,10.5 C19.719,10.5 19,11.694 19,13.197 L19,18 L16,18 L16,8 Z" fill="currentColor"></path>
+    <path d="M11,18 L14,18 L14,8 L11,8 L11,18 Z M12.501,6.3 C13.495,6.3 14.3,5.494 14.3,4.5 C14.3,3.506 13.495,2.7 12.501,2.7 C11.508,2.7 10.7,3.506 10.7,4.5 C10.7,5.494 11.508,6.3 12.501,6.3 Z" fill="currentColor"></path>
+    <polygon fill="currentColor" points="3 3 0 3 0 18 9 18 9 15 3 15"></polygon>
+  </g>
+</svg></icon>
+  
+          
+      </a>
+
+        
+
+    
+    
+    
+    
+
+    <section class="search-bar search-bar--minified-mobile" data-current-search-type="PEOPLE">
+      <button class="search-bar__placeholder show-on-mobile hide-on-desktop" data-tracking-control-name="public_profile_search-switcher-opener">
+        <div class="search-bar__full-placeholder">
+              Yogesh P Chinchole
+<!----><!---->        </div>
+        <span class="sr-only">Expand search</span>
+      </button>
+      
+      
+        
+
+    
+    
+    
+    
+
+    <div class="switcher-tabs__trigger-and-tabs">
+      <button aria-expanded="false" class="switcher-tabs__placeholder hide-on-mobile" data-tracking-control-name="public_profile_switcher-tabs-placeholder">
+        <span class="switcher-tabs__placeholder-text">
+              People
+            </span>
+        <icon class="switcher-tabs__caret-down-filled onload lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="24px" height="24px" class="artdeco-icon lazy-loaded" focusable="false">
+  <path d="M5,9h14l-6.2,6.7C12.6,15.9,12.3,16,12,16c-0.3,0-0.6-0.1-0.8-0.3L5,9z" fill="currentColor"></path>
+</svg></icon>
+      </button>
+
+      <div class="switcher-tabs hide-on-desktop hide-on-mobile">
+        <ul class="switcher-tabs__list">
+          <li class="switcher-tabs__tab ">
+            <button aria-selected="false" class="switcher-tabs__button" data-switcher-type="JOBS" data-tracking-control-name="public_profile_switcher-tabs-jobs-search-switcher" role="tab" type="button">
+              Jobs
+            </button>
+          </li>
+          <li class="switcher-tabs__tab switcher-tabs__tab--active">
+            <button aria-selected="true" class="switcher-tabs__button" data-switcher-type="PEOPLE" data-tracking-control-name="public_profile_switcher-tabs-people-search-switcher" role="tab" type="button">
+              People
+            </button>
+          </li>
+          <li class="switcher-tabs__tab ">
+            <button aria-selected="false" class="switcher-tabs__button" data-switcher-type="LEARNING" data-tracking-control-name="public_profile_switcher-tabs-learning-search-switcher" role="tab" type="button">
+              Learning
+            </button>
+          </li>
+        </ul>
+
+        <button aria-label="Close" class="switcher-tabs__cancel-btn hide-on-desktop" data-tracking-control-name="public_profile_switcher-tabs-cancel-search-switcher" type="button">
+          <icon class="switcher-tabs__cancel-icon onload lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" focusable="false" class="lazy-loaded">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="currentColor" d="M7.90356 9.19393l-3.3763 3.3763-1.29037-1.29037 3.3763-3.3763-3.3763-3.3763 1.29037-1.29037 3.3763 3.3763 3.3763-3.3763 1.29037 1.29037-3.3763 3.3763 3.3763 3.3763-1.29037 1.29037z"></path>
+    <path d="M0 0h16v16H0z"></path>
+  </g>
+</svg></icon>
+        </button>
+      </div>
+    </div>
+  
+
+        
+
+    
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar" data-searchbar-type="PEOPLE">
+      <form class="base-search-bar__form" role="search" action="/pub/dir" data-tracking-control-name="public_profile_people-search-bar_base-search-bar-form">
+        
+          
+      
+    
+
+    <section class="dismissable-input search-input">
+      <input aria-label="First Name" name="firstName" class="dismissable-input__input" value="Yogesh P" placeholder="First Name" autocomplete="on" data-tracking-control-name="public_profile_people-search-bar_first-name_dismissable-input" maxlength="500" type="search">
+        <button class="dismissable-input__button dismissable-input__button--show" data-tracking-control-name="public_profile_people-search-bar_first-name_dismissable-input-clear" type="button">
+          <label class="screen-reader-text">Dismiss</label>
+          <icon class="dismissable-input__button-icon lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" focusable="false" class="lazy-loaded">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="currentColor" d="M7.90356 9.19393l-3.3763 3.3763-1.29037-1.29037 3.3763-3.3763-3.3763-3.3763 1.29037-1.29037 3.3763 3.3763 3.3763-3.3763 1.29037 1.29037-3.3763 3.3763 3.3763 3.3763-1.29037 1.29037z"></path>
+    <path d="M0 0h16v16H0z"></path>
+  </g>
+</svg></icon>
+        </button>
+
+      
+    </section>
+  
+  
+          
+      
+    
+
+    <section class="dismissable-input search-input">
+      <input aria-label="Last Name" name="lastName" class="dismissable-input__input" value="Chinchole" placeholder="Last Name" autocomplete="on" data-tracking-control-name="public_profile_people-search-bar_last-name_dismissable-input" maxlength="500" type="search">
+        <button class="dismissable-input__button dismissable-input__button--show" data-tracking-control-name="public_profile_people-search-bar_last-name_dismissable-input-clear" type="button">
+          <label class="screen-reader-text">Dismiss</label>
+          <icon class="dismissable-input__button-icon lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" focusable="false" class="lazy-loaded">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="currentColor" d="M7.90356 9.19393l-3.3763 3.3763-1.29037-1.29037 3.3763-3.3763-3.3763-3.3763 1.29037-1.29037 3.3763 3.3763 3.3763-3.3763 1.29037 1.29037-3.3763 3.3763 3.3763 3.3763-1.29037 1.29037z"></path>
+    <path d="M0 0h16v16H0z"></path>
+  </g>
+</svg></icon>
+        </button>
+
+      
+    </section>
+  
+  
+      
+        <input name="trk" value="public_profile_people-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn" aria-label="Search" data-tracking-control-name="public_profile_people-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="24px" height="24px" version="1.1" focusable="false" class="lazy-loaded">
+  <path d="M21,19.67l-5.44-5.44a7,7,0,1,0-1.33,1.33L19.67,21ZM10,15.13A5.13,5.13,0,1,1,15.13,10,5.13,5.13,0,0,1,10,15.13Z" class="large-icon" style="fill: currentColor; color: #7a8b98;" id="search-icon-large"></path>
+</svg></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+
+    
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar" data-searchbar-type="JOBS">
+      <form class="base-search-bar__form" role="search" action="/jobs/search" data-tracking-control-name="public_profile_jobs-search-bar_base-search-bar-form">
+        
+        
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    <section class="dismissable-input typeahead-input keywords-typeahead-input" role="combobox" aria-owns="job-search-bar-keywords-typeahead-list" aria-haspopup="listbox" aria-expanded="false">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-keywords-typeahead-list" aria-label="Search job titles or companies" name="keywords" class="dismissable-input__input" placeholder="Search job titles or companies" autocomplete="off" data-tracking-control-name="public_profile_dismissable-input" maxlength="500" type="search">
+        <button class="dismissable-input__button" data-tracking-control-name="public_profile_dismissable-input-clear" type="button" disabled="">
+          <label class="screen-reader-text">Dismiss</label>
+          <icon class="dismissable-input__button-icon lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" focusable="false" class="lazy-loaded">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="currentColor" d="M7.90356 9.19393l-3.3763 3.3763-1.29037-1.29037 3.3763-3.3763-3.3763-3.3763 1.29037-1.29037 3.3763 3.3763 3.3763-3.3763 1.29037 1.29037-3.3763 3.3763 3.3763 3.3763-1.29037 1.29037z"></path>
+    <path d="M0 0h16v16H0z"></path>
+  </g>
+</svg></icon>
+        </button>
+
+      
+<!---->      <div class="typeahead-input__dropdown">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item" role="option">
+            <span class="typeahead-input__dropdown-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list" id="job-search-bar-keywords-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+    </section>
+  
+  
+        
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    <section class="dismissable-input typeahead-input location-typeahead-input" role="combobox" aria-owns="job-search-bar-location-typeahead-list" aria-haspopup="listbox" aria-expanded="false">
+      <input aria-autocomplete="list" aria-controls="job-search-bar-location-typeahead-list" aria-label="Location" name="location" class="dismissable-input__input" value="Gangakhed" placeholder="Location" autocomplete="off" data-tracking-control-name="public_profile_dismissable-input" maxlength="500" type="search">
+        <button class="dismissable-input__button dismissable-input__button--show" data-tracking-control-name="public_profile_dismissable-input-clear" type="button">
+          <label class="screen-reader-text">Dismiss</label>
+          <icon class="dismissable-input__button-icon lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" focusable="false" class="lazy-loaded">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="currentColor" d="M7.90356 9.19393l-3.3763 3.3763-1.29037-1.29037 3.3763-3.3763-3.3763-3.3763 1.29037-1.29037 3.3763 3.3763 3.3763-3.3763 1.29037 1.29037-3.3763 3.3763 3.3763 3.3763-1.29037 1.29037z"></path>
+    <path d="M0 0h16v16H0z"></path>
+  </g>
+</svg></icon>
+        </button>
+
+      
+<!---->      <div class="typeahead-input__dropdown">
+        <template class="typeahead-item-template">
+          <li class="typeahead-input__dropdown-item" role="option">
+            <span class="typeahead-input__dropdown-text"></span>
+          </li>
+        </template>
+
+        <ul class="typeahead-input__dropdown-list" id="job-search-bar-location-typeahead-list" role="listbox"></ul>
+      </div>
+<!---->    
+    </section>
+  
+  
+        <input name="geoId" value="100201161" type="hidden">
+      
+        <input name="trk" value="public_profile_jobs-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn" aria-label="Search" data-tracking-control-name="public_profile_jobs-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="24px" height="24px" version="1.1" focusable="false" class="lazy-loaded">
+  <path d="M21,19.67l-5.44-5.44a7,7,0,1,0-1.33,1.33L19.67,21ZM10,15.13A5.13,5.13,0,1,1,15.13,10,5.13,5.13,0,0,1,10,15.13Z" class="large-icon" style="fill: currentColor; color: #7a8b98;" id="search-icon-large"></path>
+</svg></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+
+        
+    
+    
+
+    
+
+    
+
+    <section class="base-search-bar" data-searchbar-type="LEARNING">
+      <form class="base-search-bar__form" role="search" action="/learning/search" data-tracking-control-name="public_profile_learning-search-bar_base-search-bar-form">
+        
+        
+      
+    
+
+    <section class="dismissable-input search-input">
+      <input aria-label="Search skills, subjects, or software" name="keywords" class="dismissable-input__input" placeholder="Search skills, subjects, or software" autocomplete="on" data-tracking-control-name="public_profile_learning-search-bar_keywords_dismissable-input" maxlength="500" type="search">
+        <button class="dismissable-input__button" data-tracking-control-name="public_profile_learning-search-bar_keywords_dismissable-input-clear" type="button" disabled="">
+          <label class="screen-reader-text">Dismiss</label>
+          <icon class="dismissable-input__button-icon lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" focusable="false" class="lazy-loaded">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="currentColor" d="M7.90356 9.19393l-3.3763 3.3763-1.29037-1.29037 3.3763-3.3763-3.3763-3.3763 1.29037-1.29037 3.3763 3.3763 3.3763-3.3763 1.29037 1.29037-3.3763 3.3763 3.3763 3.3763-1.29037 1.29037z"></path>
+    <path d="M0 0h16v16H0z"></path>
+  </g>
+</svg></icon>
+        </button>
+
+      
+    </section>
+  
+  
+        <input class="nav__search-uoo" name="upsellOrderOrigin" type="hidden">
+        
+      
+        <input name="trk" value="public_profile_learning-search-bar_search-submit" type="hidden">
+        <button class="base-search-bar__submit-btn" aria-label="Search" data-tracking-control-name="public_profile_learning-search-bar_base-search-bar-search-submit" type="submit">
+          <icon class="base-search-bar__search-icon onload lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="24px" height="24px" version="1.1" focusable="false" class="lazy-loaded">
+  <path d="M21,19.67l-5.44-5.44a7,7,0,1,0-1.33,1.33L19.67,21ZM10,15.13A5.13,5.13,0,1,1,15.13,10,5.13,5.13,0,0,1,10,15.13Z" class="large-icon" style="fill: currentColor; color: #7a8b98;" id="search-icon-large"></path>
+</svg></icon>
+        </button>
+      </form>
+    </section>
+  
+  
+        <div aria-live="polite" class="search-bar__live-text sr-only" role="status"></div>
+      
+  
+    </section>
+  
+
+<!---->
+      <div class="nav__cta-container">
+          
+    
+    <a class="nav__button-tertiary" href="https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=yogeshpchinchole&amp;session_redirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Fyogeshpchinchole&amp;trk=public_profile_nav-header-join" data-tracking-control-name="public_profile_nav-header-join" data-test-live-nav-primary-cta="" data-tracking-will-navigate="">
+      Join now
+    </a>
+
+
+          
+      
+      <a class="nav__button-secondary" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fin%2Elinkedin%2Ecom%2Fin%2Fyogeshpchinchole&amp;fromSignIn=true&amp;trk=public_profile_nav-header-signin" data-tracking-control-name="public_profile_nav-header-signin" data-tracking-will-navigate="">
+         Sign in
+      </a>
+
+
+
+          <a aria-label="Sign in" class="nav__link-person" data-tracking-control-name="public_profile_nav-header-signin" data-tracking-will-navigate="" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fin%2Elinkedin%2Ecom%2Fin%2Fyogeshpchinchole&amp;fromSignIn=true&amp;trk=public_profile_nav-header-signin">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-1 artdeco-entity-image--ghost lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" aria-hidden="true" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+          </a>
+      </div>
+
+<!---->
+<!---->    </nav>
+  
+      
+    </header>
+
+    
+<!---->      
+
+<!---->
+    <main class="main" id="main-content" role="main">
+      <section class="core-rail">
+        
+        
+      
+
+        <div class="details">
+          
+        
+            
+    
+    
+      <section class="profile">
+        
+<!---->
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    <section class="top-card-layout">
+        
+    <figure class="cover-img">
+<!---->      <div class="cover-img__image-frame">
+        <div class="cover-img__image-position ">
+            <img class="cover-img__image onload" src="https://media-exp1.licdn.com/dms/image/C4D16AQH_YmXJ3dutNw/profile-displaybackgroundimage-shrink_200_800/0/1516893180243?e=1650499200&amp;v=beta&amp;t=AggreEafUulbEr8HczX8lIJAzYnntD7bMBTm4D5zCUM" loading="lazy" data-embed-id="cover-image" alt="">
+        </div>
+      </div>
+<!---->    </figure>
+  
+
+      <div class="top-card-layout__card">
+          
+        <div class="top-card__profile-image-container top-card__profile-image-container--cvw-fix" data-section="picture">
+          
+      <img class="artdeco-entity-image artdeco-entity-image--circle-8 top-card-layout__entity-image top-card__profile-image top-card__profile-image--real-image onload lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Yogesh P Chinchole" src="https://media-exp1.licdn.com/dms/image/C4D03AQEc4ySKBrFTFw/profile-displayphoto-shrink_200_200/0/1516893179654?e=1650499200&amp;v=beta&amp;t=s3qUahbe1wTypAAsfweqemxKyLId69y6BugXJ6yCwag">
+  
+<!---->        </div>
+      
+
+        <div class="top-card-layout__entity-info-container">
+          <div class="top-card-layout__entity-info">
+              <h1 class="top-card-layout__title">
+                Yogesh P Chinchole
+                
+<!----><!---->      
+              </h1>
+              <h2 class="top-card-layout__headline">
+                  Expert in Technology | Testing | Automation | Selenium | Personal Finance | Money | Digitalization | Business | On a mission to Educate Lives to grow 10X
+              </h2>
+
+              <h3 class="top-card-layout__first-subline">
+                
+          
+    
+    
+
+      <span class="top-card__subline-item">Pune, Maharashtra, India</span><span class="top-card__subline-item top-card__subline-item--bullet">500+ connections</span>
+  
+              
+              </h3>
+
+<!---->
+            <div class="top-card-layout__cta-container">
+                <a class="top-card-layout__cta top-card-layout__cta--primary" href="https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=yogeshpchinchole&amp;trk=public_profile_top-card-primary-button-join-to-connect" data-tracking-control-name="public_profile_top-card-primary-button-join-to-connect" data-tracking-will-navigate="">
+                  Join to Connect
+                </a>
+              
+<!---->            </div>
+          </div>
+
+              <div class="top-card-layout__entity-info top-card-layout__entity-info--right-column">
+                
+          <div class="top-card__links-container">
+              <div data-section="currentPositionsDetails" class="top-card__right-column-link top-card__position-info with-transition">
+                
+      <a class="top-card-link top-card-link--link" href="https://www.linkedin.com/company/fis?trk=public_profile_topcard-current-company" target="_self" data-tracking-control-name="public_profile_topcard-current-company" data-tracking-will-navigate="">
+        
+    
+
+      
+      <img class="artdeco-entity-image artdeco-entity-image--square-1  top-card-link__logo" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQEok08w8MNWeg/company-logo_100_100/0/1564578176780?e=1652918400&amp;v=beta&amp;t=5H1hvXnTajhvNteC-80NyY1Yd_M68P06cWbrIS7seVA" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="FIS">
+  
+    <span class="top-card-link__description">
+      FIS<!---->    </span>
+  
+      </a>
+  
+              </div>
+<!---->              <div data-section="educationsDetails" class="top-card__right-column-link top-card__education-info with-transition">
+                
+      <a class="top-card-link top-card-link--link" href="https://www.linkedin.com/school/north-maharashtra-university/?trk=public_profile_topcard-school" target="_self" data-tracking-control-name="public_profile_topcard-school" data-tracking-will-navigate="">
+        
+    
+
+      
+      <img class="artdeco-entity-image artdeco-entity-image--square-1  top-card-link__logo" data-delayed-url="https://media-exp1.licdn.com/dms/image/C560BAQG5iiWeIshB0g/company-logo_100_100/0/1519901466945?e=1652918400&amp;v=beta&amp;t=4cIASy0ib1ypLnnXJRMryiLLr208pTm9x1gIXd88rOw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/csnc6op83cjt60ym5equoy1km" alt="North Maharashtra University">
+  
+    <span class="top-card-link__description">
+      North Maharashtra University<!---->    </span>
+  
+      </a>
+  
+              </div>
+              <div data-section="websites" class="top-card__right-column-link top-card__websites with-transition">
+                
+    
+
+        
+
+    
+    <div>
+        <button class="modal__outlet " data-tracking-control-name="public_profile_websites-modal-outlet" data-modal="default-outlet">
+          
+            
+      <div class="top-card-link websites">
+        
+    
+
+      <img data-delayed-url="https://static-exp1.licdn.com/sc/h/9o8qqup6da04vhqijz8ft1j5g" class="top-card-link__logo top-card-link__logo--link-icon artdeco-entity-image artdeco-entity-image--square-1" alt="Websites" aria-hidden="true">
+    <span class="top-card-link__description">
+      Websites<!---->    </span>
+  
+      </div>
+  
+          
+        </button>
+
+      <div id="websites" class="modal " data-outlet="default-outlet">
+        <div class="modal__overlay ">
+          <section aria-modal="true" role="dialog" aria-labelledby="websites-modal-header" tabindex="-1" class="modal__wrapper">
+              <header class="modal__header">
+                  <h2 id="websites-modal-header" class="modal__title">Websites</h2>
+                <button class="modal__dismiss modal__dismiss--with-icon" aria-label="Dismiss" data-tracking-control-name="public_profile_websites-modal-dismiss" type="button">
+                    <icon class="modal__dismiss-icon lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" class="artdeco-icon lazy-loaded" focusable="false">
+  <path d="M20,5.32L13.32,12,20,18.68,18.66,20,12,13.33,5.34,20,4,18.68,10.68,12,4,5.32,5.32,4,12,10.69,18.68,4Z" fill="currentColor"></path>
+</svg></icon>
+                </button>
+<!---->              </header>
+            <main class="modal__main">
+              
+            
+    
+
+    <dl class="websites__list">
+        <div class="websites__list-row">
+          <dt class="websites__list-item websites__name">Company Website</dt>
+          <dd class="websites__list-item websites__url">
+            <a href="https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Efisglobal%2Ecom&amp;urlhash=1iqy&amp;trk=public_profile_website" target="_blank" data-tracking-control-name="public_profile_website" data-tracking-will-navigate="">
+              <span class="websites__url-text">
+                http://www.fisglobal.com</span><img alt="External link" aria-hidden="true" class="websites__link-external-icon lazy-loaded" src="https://static-exp1.licdn.com/sc/h/8w0vew433o9nluoruq9k5eqy">
+            </a>
+          </dd>
+        </div>
+        <div class="websites__list-row">
+          <dt class="websites__list-item websites__name">Personal Website</dt>
+          <dd class="websites__list-item websites__url">
+            <a href="https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fabout%2Eme%2Fyogeshchinchole&amp;urlhash=rOLq&amp;trk=public_profile_website" target="_blank" data-tracking-control-name="public_profile_website" data-tracking-will-navigate="">
+              <span class="websites__url-text">
+                http://about.me/yogeshchinchole</span><img alt="External link" aria-hidden="true" class="websites__link-external-icon lazy-loaded" src="https://static-exp1.licdn.com/sc/h/8w0vew433o9nluoruq9k5eqy">
+            </a>
+          </dd>
+        </div>
+        <div class="websites__list-row">
+          <dt class="websites__list-item websites__name">Personal Website</dt>
+          <dd class="websites__list-item websites__url">
+            <a href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fyogeshchinchole%2Ecom&amp;urlhash=NYum&amp;trk=public_profile_website" target="_blank" data-tracking-control-name="public_profile_website" data-tracking-will-navigate="">
+              <span class="websites__url-text">
+                https://yogeshchinchole.com</span><img alt="External link" aria-hidden="true" class="websites__link-external-icon lazy-loaded" src="https://static-exp1.licdn.com/sc/h/8w0vew433o9nluoruq9k5eqy">
+            </a>
+          </dd>
+        </div>
+    </dl>
+  
+          
+            </main>
+
+<!---->          </section>
+        </div>
+      </div>
+    </div>  
+  
+              </div>
+          </div>
+      
+              </div>
+        </div>
+
+        
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu top-card-layout__ellipsis-menu">
+        
+
+    
+
+    <div class="collapsible-dropdown">
+          
+            <button class="ellipsis-menu__trigger  collapsible-dropdown__button" aria-expanded="false" aria-label="Open menu" data-tracking-control-name="public_profile_ellipsis-menu-trigger">
+              <icon class="ellipsis-menu__trigger-icon lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" id="ellipsis-horizontal-large" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden" role="menu" tabindex="-1">
+          
+            
+
+              <li class="ellipsis-menu__item">
+                <a href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fin%2Elinkedin%2Ecom%2Fin%2Fyogeshpchinchole&amp;fromSignIn=true&amp;trk=public_profile_ellipsis-menu-sign-in-redirect" class="ellipsis-menu__item-button" data-tracking-control-name="public_profile_ellipsis-menu-sign-in-redirect" data-tracking-will-navigate="">
+                  <icon class="ellipsis-menu__item-icon lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" id="flag-large" data-supported-dps="24x24" fill="currentColor" focusable="false" class="lazy-loaded">
+  <path d="M13.82 5L14 4a1 1 0 00-1-1H5V2H3v20h2v-7h4.18L9 16a1 1 0 001 1h8.87L21 5h-7.18zM5 13V5h6.94l-1.41 8H5zm12.35 2h-6.3l1.42-8h6.29z"></path>
+</svg></icon>
+                  Report this profile
+                </a>
+              </li>
+          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+
+
+<!---->      </div>
+    </section>
+  
+  
+
+<!---->
+<!---->
+          
+    
+
+    
+      
+    <section class="core-section-container core-section-container--with-border pp-section summary" data-section="summary">
+<!---->
+        
+            <h2 class="core-section-container__title">
+              
+        About
+      
+            </h2>
+        
+      
+<!---->
+      <div class="core-section-container__content">
+        
+        <p>An 16+years Experienced in QA - Testing Services &amp; Entrepreneurship<br>Specialties: Software Testing &amp; QA Manual &amp; Automation, Team &amp; Test management, Entrepreneurship.</p>
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+          
+
+    
+
+    
+      
+    <section class="core-section-container core-section-container--with-border pp-section experience">
+<!---->
+        
+            <h2 class="core-section-container__title">
+              
+        Experience
+      
+            </h2>
+        
+      
+<!---->
+      <div class="core-section-container__content">
+        
+        <ul class="experience__list">
+              
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-item" data-section="currentPositionsDetails">
+<!---->          <a class="profile-section-card__image-link" href="https://www.linkedin.com/company/fis?trk=public_profile_experience-item_profile-section-card_image-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_image-click" data-tracking-will-navigate="">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQEok08w8MNWeg/company-logo_100_100/0/1564578176780?e=1652918400&amp;v=beta&amp;t=5H1hvXnTajhvNteC-80NyY1Yd_M68P06cWbrIS7seVA" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="FIS Graphic" aria-hidden="true">
+  
+          </a>
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Quality Assurance Manager
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/fis?trk=public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+        FIS
+      
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-item__duration experience-item__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Jun 2020</time> - Present<span class="date-range__duration">1 year 9 months</span>
+      </span>
+  
+          </p>
+
+<!---->
+<!---->      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+              
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-item" data-section="currentPositionsDetails">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost profile-section-card__image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="SuvarnaBandha Foundations Graphic" aria-hidden="true" src="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Founder &amp; CEO
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+        SuvarnaBandha Foundations
+      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-item__duration experience-item__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Nov 2011</time> - Present<span class="date-range__duration">10 years 4 months</span>
+      </span>
+  
+          </p>
+
+          <p class="experience-item__location experience-item__meta-item">
+            Pune Area, India
+          </p>
+
+          <div class="experience-item__description experience-item__meta-item" data-section="currentPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        "Suvarna-Bandha" is Matrimonial Organization for All India Lad-Wani Community. Roles Involving to Manage all the Matrimonial Publications including Print &amp; Web Media &amp; to deliver unto the last man in the community who requires the solutions.<br><br>Other Roles Involve: To Manage &amp; Help community Needy Students, Professionals to reach to the required solutions providing helping hands in the form of group formations &amp; delivery of solutions.
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+              
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-item" data-section="pastPositionsDetails">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost profile-section-card__image" data-delayed-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Zenmonics Software Pvt Ltd Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        QA Manager
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+        Zenmonics Software Pvt Ltd
+      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-item__duration experience-item__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Jan 2015</time> - <time>Jun 2020</time><span class="date-range__duration">5 years 6 months</span>
+      </span>
+  
+          </p>
+
+          <p class="experience-item__location experience-item__meta-item">
+            Pune Area, India
+          </p>
+
+          <div class="experience-item__description experience-item__meta-item" data-section="pastPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Test Management with 12+ Experience. Roles Involving Test Planning, Test Management, Defect Management, TLC Planning, Resource Planning &amp; Management,
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+              
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-item" data-section="pastPositionsDetails">
+<!---->          <a class="profile-section-card__image-link" href="https://www.linkedin.com/company/aci-worldwide?trk=public_profile_experience-item_profile-section-card_image-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_image-click" data-tracking-will-navigate="">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C560BAQG3lMPESGHNQA/company-logo_100_100/0/1610560342905?e=1652918400&amp;v=beta&amp;t=U54XJUNLF9zuVVezlUepx9W8rJjrPylebHUkCb8F_m0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="ACI Worldwide Graphic" aria-hidden="true">
+  
+          </a>
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Test Lead
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/aci-worldwide?trk=public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+        ACI Worldwide
+      
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-item__duration experience-item__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Jan 2015</time> - <time>Jun 2019</time><span class="date-range__duration">4 years 6 months</span>
+      </span>
+  
+          </p>
+
+          <p class="experience-item__location experience-item__meta-item">
+            Pune Area, India
+          </p>
+
+          <div class="experience-item__description experience-item__meta-item" data-section="pastPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Test Management with 12+ Experience. Roles Involving Test Planning, Test Management, Defect Management, TLC Planning &amp; Execution.
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+              
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-item" data-section="pastPositionsDetails">
+<!---->          <a class="profile-section-card__image-link" href="https://www.linkedin.com/company/hsbc?trk=public_profile_experience-item_profile-section-card_image-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_image-click" data-tracking-will-navigate="">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4D0BAQEhNvC7GlwZVQ/company-logo_100_100/0/1625124699678?e=1652918400&amp;v=beta&amp;t=-VoqiIGxRwxIf8J1eF1zsZGnuwGBlEthyX_vcKoOn5U" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="HSBC Graphic" aria-hidden="true">
+  
+          </a>
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Team Lead - Testing Services
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/hsbc?trk=public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+        HSBC
+      
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-item__duration experience-item__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>May 2012</time> - <time>Nov 2014</time><span class="date-range__duration">2 years 7 months</span>
+      </span>
+  
+          </p>
+
+          <p class="experience-item__location experience-item__meta-item">
+            Pune
+          </p>
+
+          <div class="experience-item__description experience-item__meta-item" data-section="pastPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Test Management with 7+ Experience. Roles Involving Test Planning, Creation, Management, &amp; Control. TLC Planning &amp; Execution, Managing Team activities.
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+              
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-item" data-section="pastPositionsDetails">
+<!---->          <a class="profile-section-card__image-link" href="https://www.linkedin.com/company/ibm?trk=public_profile_experience-item_profile-section-card_image-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_image-click" data-tracking-will-navigate="">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 profile-section-card__image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="IBM Global Business Services Graphic" aria-hidden="true" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEbeXp3R8QJLg/company-logo_100_100/0/1643724857619?e=1652918400&amp;v=beta&amp;t=UrCf_DJ5Di2nsRPapQv99nHnnh8gkNrL7RlZhgdpYkY">
+  
+          </a>
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Software Consultant
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/ibm?trk=public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+        IBM Global Business Services
+      
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-item__duration experience-item__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Feb 2011</time> - <time>Feb 2012</time><span class="date-range__duration">1 year 1 month</span>
+      </span>
+  
+          </p>
+
+          <p class="experience-item__location experience-item__meta-item">
+            Hinjewadi, Pune
+          </p>
+
+          <div class="experience-item__description experience-item__meta-item" data-section="pastPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        The job primarily involves:<br><br>Designing and execution of test cases<br>Performing Functional Testing, User Acceptance Testing, Regression Testing, Performance Testing, Compatibility Testing, Cookie Testing, Usability Testing.<br>Providing support to clients.<br>Preparing Rosters.<br>Handling Shifts by allocating work.<br>Provide support to End users.<br>Raising change releases.
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+              
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-item" data-section="pastPositionsDetails">
+<!---->          <a class="profile-section-card__image-link" href="https://www.linkedin.com/company/saband-software-technologies-pvt-ltd?trk=public_profile_experience-item_profile-section-card_image-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_image-click" data-tracking-will-navigate="">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0BAQEnNtYH3UN5Gg/company-logo_100_100/0/1519891132273?e=1652918400&amp;v=beta&amp;t=0fgr8nE9llwJNzFVm0V6kqemofjXTShscwkJbRCTvPU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="SABAND SOFTWARE TECHNOLOGIES PVT LTD Graphic" aria-hidden="true">
+  
+          </a>
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Software Test Engineer
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/saband-software-technologies-pvt-ltd?trk=public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+        SABAND SOFTWARE TECHNOLOGIES PVT LTD
+      
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-item__duration experience-item__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Jul 2010</time> - <time>Feb 2011</time><span class="date-range__duration">8 months</span>
+      </span>
+  
+          </p>
+
+<!---->
+          <div class="experience-item__description experience-item__meta-item" data-section="pastPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        The job primarily involves:<br><br>Designing and execution of test cases<br>Performing Functional Testing, User Acceptance Testing, Regression Testing, Performance Testing, Compatibility Testing, Cookie Testing, Usability Testing.<br>Providing support to clients.<br>Preparing Rosters.<br>Handling Shifts by allocating work.<br>Provide support to End users.<br>Raising change releases.
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+              
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-item" data-section="pastPositionsDetails">
+<!---->          <a class="profile-section-card__image-link" href="https://www.linkedin.com/company/wns-global-services?trk=public_profile_experience-item_profile-section-card_image-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_image-click" data-tracking-will-navigate="">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C560BAQEFCDQta2K9yA/company-logo_100_100/0/1591202030019?e=1652918400&amp;v=beta&amp;t=e5ess0z1fVLG1EErQPnTiW9Ehjz2xO2Coa33tJ0Gars" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="WNS Global Services Graphic" aria-hidden="true">
+  
+          </a>
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Software Test Engineer
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/wns-global-services?trk=public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_experience-item_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+        WNS Global Services
+      
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-item__duration experience-item__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Feb 2007</time> - <time>Jan 2010</time><span class="date-range__duration">3 years</span>
+      </span>
+  
+          </p>
+
+          <p class="experience-item__location experience-item__meta-item">
+            Pune Area, India
+          </p>
+
+          <div class="experience-item__description experience-item__meta-item" data-section="pastPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Roles:<br><br>•	Writing Test Cases on the basis of Functional Specifications.<br>•	Executing Test Cases<br>•	Reporting bugs to development team.<br>•	Discussion of defects with the concerned developers for the respective modules.<br>•	Preparing consolidated Defect Status Report.<br>•	Review and test the fixes.<br>•	Sending test and weekly reports to the client.<br>•	Performing User Acceptance Testing.<br>•	Creating User manuals.<br>•	Providing training to end users.
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+              
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-item" data-section="pastPositionsDetails">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost profile-section-card__image" data-delayed-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="WNS Global services Pvt Ltd Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Software test Engineer
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+        WNS Global services Pvt Ltd
+      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-item__duration experience-item__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Feb 2007</time> - <time>Jan 2010</time><span class="date-range__duration">3 years</span>
+      </span>
+  
+          </p>
+
+<!---->
+          <div class="experience-item__description experience-item__meta-item" data-section="pastPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Roles:<br><br>•	Writing Test Cases on the basis of Functional Specifications.<br>•	Executing Test Cases<br>•	Reporting bugs to development team.<br>•	Discussion of defects with the concerned developers for the respective modules.<br>•	Preparing consolidated Defect Status Report.<br>•	Review and test the fixes.<br>•	Sending test and weekly reports to the client.<br>•	Performing User Acceptance Testing.<br>•	Creating User manuals.<br>•	Providing training to end users.
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+              
+    <li class="experience-group experience-item" data-numcurrent="0" data-numpast="2">
+
+      
+      
+    
+
+    <div class="experience-group-header">
+      <div class="experience-group-header__image-container">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost experience-group-header__image" data-delayed-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Suman Nagari Co-Op">
+  
+      </div>
+
+      <div class="experience-group-header__content">
+        <h4 class="experience-group-header__company">
+          Suman Nagari Co-Op
+        </h4>
+
+          <p class="experience-group-header__duration">
+            2 years 9 months
+          </p>
+      </div>
+    </div>
+  
+  
+
+      <ul class="experience-group__positions">
+          
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-group-position" data-section="pastPositionsDetails">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost profile-section-card__image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Suman Nagari Co-Op Graphic" aria-hidden="true" src="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        IT Engineer
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+        Suman Nagari Co-Op
+      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-group-position__duration experience-group-position__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Jun 2005</time> - <time>Dec 2006</time><span class="date-range__duration">1 year 7 months</span>
+      </span>
+  
+          </p>
+
+          <p class="experience-group-position__location experience-group-position__meta-item">
+            Dhule, Maharashtra, India
+          </p>
+
+          <div class="experience-group-position__description experience-group-position__meta-item" data-section="pastPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Worked as an IT Engineer for Kuber Software Implementation, Maintenance &amp; Acceptance Validation.
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+          
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  experience-group-position" data-section="pastPositionsDetails">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost profile-section-card__image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Suman Nagari Co-Op Graphic" aria-hidden="true" src="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        IT Engineeer
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+        Suman Nagari Co-Op
+      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          <p class="experience-group-position__duration experience-group-position__meta-item">
+            
+    
+    
+
+      <span class="date-range">
+<time>Apr 2004</time> - <time>May 2005</time><span class="date-range__duration">1 year 2 months</span>
+      </span>
+  
+          </p>
+
+          <p class="experience-group-position__location experience-group-position__meta-item">
+            Dhule, Maharashtra, India
+          </p>
+
+          <div class="experience-group-position__description experience-group-position__meta-item" data-section="pastPositions">
+            
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Worked as an IT Engineer for Kuber Software Implementation, Maintenance &amp; Acceptance Validation.
+      </p>
+
+<!---->    </div>
+  
+          </div>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+      </ul>
+    </li>
+  
+        </ul>
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+<!---->
+          
+    
+
+    
+      
+    <section class="core-section-container core-section-container--with-border pp-section education" data-section="educationsDetails">
+<!---->
+        
+            <h2 class="core-section-container__title">
+              
+        Education
+      
+            </h2>
+        
+      
+<!---->
+      <div class="core-section-container__content">
+        
+        <ul class="education__list">
+            
+    
+
+    
+    
+
+    <li class="profile-section-card  education__list-item" data-id="51890224">
+        <a class="profile-section-card__full-card-link" href="https://www.linkedin.com/school/north-maharashtra-university/?trk=public_profile_school_profile-section-card_full-click" data-tracking-control-name="public_profile_school_profile-section-card_full-click" data-tracking-will-navigate="">
+          <span class="screen-reader-text">
+        North Maharashtra University
+      </span>
+        </a>
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C560BAQG5iiWeIshB0g/company-logo_100_100/0/1519901466945?e=1652918400&amp;v=beta&amp;t=4cIASy0ib1ypLnnXJRMryiLLr208pTm9x1gIXd88rOw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/csnc6op83cjt60ym5equoy1km" alt="North Maharashtra University Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        North Maharashtra University
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+          <span class="education__item education__item--degree-info">M.B.M</span><!----><!---->      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+        <p class="education__item education__item--duration">
+          
+    
+    
+
+      <span class="date-range">
+<time>2009</time> - <time>2011</time><!---->      </span>
+  
+        </p>
+
+<!---->      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+            
+    
+
+    
+    
+
+    <li class="profile-section-card  education__list-item" data-id="57323709">
+        <a class="profile-section-card__full-card-link" href="https://www.linkedin.com/school/north-maharashtra-university/?trk=public_profile_school_profile-section-card_full-click" data-tracking-control-name="public_profile_school_profile-section-card_full-click" data-tracking-will-navigate="">
+          <span class="screen-reader-text">
+        North Maharashtra University
+      </span>
+        </a>
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C560BAQG5iiWeIshB0g/company-logo_100_100/0/1519901466945?e=1652918400&amp;v=beta&amp;t=4cIASy0ib1ypLnnXJRMryiLLr208pTm9x1gIXd88rOw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/csnc6op83cjt60ym5equoy1km" alt="North Maharashtra University Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        North Maharashtra University
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+          <span class="education__item education__item--degree-info">BSc; M.B.M</span><!----><!---->      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+        <p class="education__item education__item--duration">
+          
+    
+    
+
+      <span class="date-range">
+<time>2002</time> - <time>2006</time><!---->      </span>
+  
+        </p>
+
+<!---->      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+            
+    
+
+    
+    
+
+    <li class="profile-section-card  education__list-item" data-id="54022809">
+        <a class="profile-section-card__full-card-link" href="https://www.linkedin.com/school/north-maharashtra-university/?trk=public_profile_school_profile-section-card_full-click" data-tracking-control-name="public_profile_school_profile-section-card_full-click" data-tracking-will-navigate="">
+          <span class="screen-reader-text">
+        North Maharashtra University
+      </span>
+        </a>
+          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C560BAQG5iiWeIshB0g/company-logo_100_100/0/1519901466945?e=1652918400&amp;v=beta&amp;t=4cIASy0ib1ypLnnXJRMryiLLr208pTm9x1gIXd88rOw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/csnc6op83cjt60ym5equoy1km" alt="North Maharashtra University Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        North Maharashtra University
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+          <span class="education__item education__item--degree-info">BSc; M.B.M</span><!----><!---->      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+        <p class="education__item education__item--duration">
+          
+    
+    
+
+      <span class="date-range">
+<time>2002</time> - <time>2005</time><!---->      </span>
+  
+        </p>
+
+<!---->      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+            
+    
+
+    
+    
+
+    <li class="profile-section-card  education__list-item" data-id="54022808">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost profile-section-card__image" data-delayed-url="https://static-exp1.licdn.com/sc/h/csnc6op83cjt60ym5equoy1km" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/csnc6op83cjt60ym5equoy1km" alt="Nashik Board Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Nashik Board
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+          <span class="education__item education__item--degree-info">S.S.C</span><!----><!---->      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+        <p class="education__item education__item--duration">
+          
+    
+    
+
+      <span class="date-range">
+<time>2000</time> - <time>2000</time><!---->      </span>
+  
+        </p>
+
+<!---->      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+            
+    
+
+    
+    
+
+    <li class="profile-section-card  education__list-item" data-id="57323708">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost profile-section-card__image" data-delayed-url="https://static-exp1.licdn.com/sc/h/csnc6op83cjt60ym5equoy1km" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/csnc6op83cjt60ym5equoy1km" alt="Nashik Board Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+        Nashik Board
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+          <span class="education__item education__item--degree-info">S.S.C</span><!----><!---->      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+        <p class="education__item education__item--duration">
+          
+    
+    
+
+      <span class="date-range">
+<time>1999</time> - <time>2000</time><!---->      </span>
+  
+        </p>
+
+<!---->      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+        </ul>
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+<!---->
+<!---->
+<!---->
+          
+    
+
+    
+      
+    <section class="core-section-container core-section-container--with-border pp-section volunteering" data-section="volunteering">
+<!---->
+        
+            <h2 class="core-section-container__title">
+              
+        Volunteer Experience
+      
+            </h2>
+        
+      
+<!---->
+      <div class="core-section-container__content">
+        
+        <ul class="volunteering__list">
+            
+    
+
+    <li class="profile-section-card ">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost profile-section-card__image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="&quot;Suvarna Bandha&quot; - All India Lad Wani matrimonials Graphic" aria-hidden="true" src="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+                Founder &amp; CEO
+              
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+                "Suvarna Bandha" - All India Lad Wani matrimonials
+              
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+                  <p class="volunteering__item volunteering__item--duration">
+                    
+    
+    
+
+      <span class="date-range">
+          <time>
+            Oct 2011
+          </time>
+      </span>
+  
+                  </p>
+
+                  <p class="volunteering__item volunteering__item--cause">
+                    Social Services
+                  </p>
+
+                  
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        "Suvarna-Bandha" is a matrimonial Organization started for All India Lad - Wani Community. Where in all the profiles are gathered and shared across to all registrants via Printed books, Websites and referrals.<br><br>It's a social cause started for own community.
+      </p>
+
+<!---->    </div>
+  
+              
+        </div>
+      </div>
+
+      
+    </li>
+  
+        </ul>
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+<!---->
+<!---->
+          
+
+    
+    
+    
+    
+    
+    
+
+    
+      
+    <section class="core-section-container core-section-container--with-border pp-section certifications" data-section="certifications">
+<!---->
+        
+            <h2 class="core-section-container__title">
+              
+        Licenses &amp; Certifications
+      
+            </h2>
+        
+      
+<!---->
+      <div class="core-section-container__content">
+        
+        <ul class="certifications__list">
+            
+    
+
+    <li class="profile-section-card ">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_100_100/0/1626275253364?e=1652918400&amp;v=beta&amp;t=hl0cc8kqFAxAlESs81GBnZHOfmuSQy-4uxMQr67V5Bk" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Digital Marketing Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+                  <a class="profile-section-card__title-link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eudemy%2Ecom%2Fcertificate%2FUC-a5acde76-525f-43bd-9894-657b24267d1b&amp;urlhash=40do&amp;trk=public_profile_certification-title" data-tracking-control-name="public_profile_certification-title" data-tracking-will-navigate="">
+                    Digital Marketing
+                  </a>
+              
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/udemy?trk=public_profile_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+                Udemy
+              
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+                  <div class="certifications__date-range">
+                    <span class="certifications__start-date">
+                      Issued <time>Jul 2021</time>
+                    </span>
+<!---->                  </div>
+
+                  <div class="certifications__credential-id">
+                    Credential ID UC-a5acde76-525f-43bd-9894-657b24267d1b
+                  </div>
+
+                  <div class="certifications__external-link">
+                    <a class="certifications__button" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eudemy%2Ecom%2Fcertificate%2FUC-a5acde76-525f-43bd-9894-657b24267d1b&amp;urlhash=40do&amp;trk=public_profile_see-credential" rel="nofollow" target="_blank" data-tracking-control-name="public_profile_see-credential" data-tracking-will-navigate="">
+                      See credential<img class="certifications__button-external-icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/8w0vew433o9nluoruq9k5eqy" alt="External link" aria-hidden="true" data-tracking-will-navigate="">
+                    </a>
+                  </div>
+              
+        </div>
+      </div>
+
+      
+    </li>
+  
+            
+    
+
+    <li class="profile-section-card ">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1652918400&amp;v=beta&amp;t=uLYvepZL5CbFbCUnrbPF1qpQ7tyw6YBSywPcfJJmqCc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Financial Wellness: Managing Personal Cash Flow Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+                  <a class="profile-section-card__title-link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Ffinancial-wellness-managing-personal-cash-flow&amp;urlhash=0ndE&amp;trk=public_profile_certification-title" data-tracking-control-name="public_profile_certification-title" data-tracking-will-navigate="">
+                    Financial Wellness: Managing Personal Cash Flow
+                  </a>
+              
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/linkedin?trk=public_profile_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+                LinkedIn
+              
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+                  <div class="certifications__date-range">
+                    <span class="certifications__start-date">
+                      Issued <time>Jun 2021</time>
+                    </span>
+<!---->                  </div>
+
+                  <div class="certifications__credential-id">
+                    Credential ID AYd_61aZSKTABShR9eHuz-5RY8oG
+                  </div>
+
+                  <div class="certifications__external-link">
+                    <a class="certifications__button" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Ffinancial-wellness-managing-personal-cash-flow&amp;urlhash=0ndE&amp;trk=public_profile_see-credential" rel="nofollow" target="_blank" data-tracking-control-name="public_profile_see-credential" data-tracking-will-navigate="">
+                      See credential<img class="certifications__button-external-icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/8w0vew433o9nluoruq9k5eqy" alt="External link" aria-hidden="true" data-tracking-will-navigate="">
+                    </a>
+                  </div>
+              
+        </div>
+      </div>
+
+      
+    </li>
+  
+            
+    
+
+    <li class="profile-section-card ">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1652918400&amp;v=beta&amp;t=uLYvepZL5CbFbCUnrbPF1qpQ7tyw6YBSywPcfJJmqCc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Learning Personal Branding Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+                  <a class="profile-section-card__title-link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Flearning-personal-branding-2018&amp;urlhash=T9fs&amp;trk=public_profile_certification-title" data-tracking-control-name="public_profile_certification-title" data-tracking-will-navigate="">
+                    Learning Personal Branding
+                  </a>
+              
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/linkedin?trk=public_profile_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+                LinkedIn
+              
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+                  <div class="certifications__date-range">
+                    <span class="certifications__start-date">
+                      Issued <time>Apr 2021</time>
+                    </span>
+<!---->                  </div>
+
+<!---->
+                  <div class="certifications__external-link">
+                    <a class="certifications__button" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Flearning-personal-branding-2018&amp;urlhash=T9fs&amp;trk=public_profile_see-credential" rel="nofollow" target="_blank" data-tracking-control-name="public_profile_see-credential" data-tracking-will-navigate="">
+                      See credential<img class="certifications__button-external-icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/8w0vew433o9nluoruq9k5eqy" alt="External link" aria-hidden="true" data-tracking-will-navigate="">
+                    </a>
+                  </div>
+              
+        </div>
+      </div>
+
+      
+    </li>
+  
+            
+    
+
+    <li class="profile-section-card ">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4  profile-section-card__image" data-delayed-url="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1652918400&amp;v=beta&amp;t=uLYvepZL5CbFbCUnrbPF1qpQ7tyw6YBSywPcfJJmqCc" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="The Leader Habit (Blinkist Summary) Graphic" aria-hidden="true">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+                  <a class="profile-section-card__title-link" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Fthe-leader-habit-blinkist-summary&amp;urlhash=RlAm&amp;trk=public_profile_certification-title" data-tracking-control-name="public_profile_certification-title" data-tracking-will-navigate="">
+                    The Leader Habit (Blinkist Summary)
+                  </a>
+              
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/linkedin?trk=public_profile_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+                LinkedIn
+              
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+                  <div class="certifications__date-range">
+                    <span class="certifications__start-date">
+                      Issued <time>Feb 2021</time>
+                    </span>
+<!---->                  </div>
+
+<!---->
+                  <div class="certifications__external-link">
+                    <a class="certifications__button" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Flearning%2Fthe-leader-habit-blinkist-summary&amp;urlhash=RlAm&amp;trk=public_profile_see-credential" rel="nofollow" target="_blank" data-tracking-control-name="public_profile_see-credential" data-tracking-will-navigate="">
+                      See credential<img class="certifications__button-external-icon lazy-loaded" alt="External link" aria-hidden="true" data-tracking-will-navigate="" src="https://static-exp1.licdn.com/sc/h/8w0vew433o9nluoruq9k5eqy">
+                    </a>
+                  </div>
+              
+        </div>
+      </div>
+
+      
+    </li>
+  
+            
+    
+
+    <li class="profile-section-card ">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost profile-section-card__image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="Chartered Financial Goal Planner® Graphic" aria-hidden="true" src="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+                  Chartered Financial Goal Planner®
+              
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/american-academy-of-financial-management-aafm-?trk=public_profile_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+                American Academy of Financial Management (AAFM)
+              
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+                  <div class="certifications__date-range">
+                    <span class="certifications__start-date">
+                      Issued <time>Dec 2017</time>
+                    </span>
+<!---->                  </div>
+
+<!---->
+<!---->              
+        </div>
+      </div>
+
+      
+    </li>
+  
+            
+    
+
+    <li class="profile-section-card ">
+<!---->          
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 profile-section-card__image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="NISM-Series-V-A: Mutual Fund Certification Graphic" aria-hidden="true" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGvmvetlbyLoA/company-logo_100_100/0/1519890339971?e=1652918400&amp;v=beta&amp;t=GZB_QiOxcoPx932aD6v2v0KTCag-DFuDJgrIKeHhtL0">
+  
+
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+                  <a class="profile-section-card__title-link" href="https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Enism%2Eac%2Ein%2Fcertification%2Findex%2Ephp&amp;urlhash=XGTv&amp;trk=public_profile_certification-title" data-tracking-control-name="public_profile_certification-title" data-tracking-will-navigate="">
+                    NISM-Series-V-A: Mutual Fund Certification
+                  </a>
+              
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              <a class="profile-section-card__subtitle-link" href="https://www.linkedin.com/company/national-institute-of-securities-markets?trk=public_profile_profile-section-card_subtitle-click" data-tracking-control-name="public_profile_profile-section-card_subtitle-click" data-tracking-will-navigate="">
+              
+                National Institute of Securities Markets
+              
+              </a>
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+                  <div class="certifications__date-range">
+                    <span class="certifications__start-date">
+                      Issued <time>Feb 2016</time>
+                    </span>
+                      <span class="certifications__end-date">
+                        Expires <time>Feb 2019</time>
+                      </span>
+                  </div>
+
+<!---->
+                  <div class="certifications__external-link">
+                    <a class="certifications__button" href="https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Enism%2Eac%2Ein%2Fcertification%2Findex%2Ephp&amp;urlhash=XGTv&amp;trk=public_profile_see-credential" rel="nofollow" target="_blank" data-tracking-control-name="public_profile_see-credential" data-tracking-will-navigate="">
+                      See credential<img class="certifications__button-external-icon lazy-loaded" alt="External link" aria-hidden="true" data-tracking-will-navigate="" src="https://static-exp1.licdn.com/sc/h/8w0vew433o9nluoruq9k5eqy">
+                    </a>
+                  </div>
+              
+        </div>
+      </div>
+
+      
+    </li>
+  
+        </ul>
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          
+
+    
+
+    
+      
+    <section class="core-section-container core-section-container--with-border pp-section publications" data-section="publications">
+<!---->
+        
+            <h2 class="core-section-container__title">
+              Publications
+            </h2>
+        
+      
+<!---->
+      <div class="core-section-container__content">
+        
+        <ul class="publications__list">
+            
+
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  personal-project">
+<!----><!---->
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+          <a class="profile-section-card__title-link" href="https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Esuvarnabandha%2Ecom&amp;urlhash=xATI&amp;trk=public_profile_publication-title" title="Suvarnabandha" rel="nofollow" data-tracking-control-name="public_profile_publication-title" data-tracking-will-navigate="">
+            Suvarnabandha
+          </a>
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+        
+                  <span class="personal-project__subtitle-item">Suvarnabandha Publications</span>
+                  <span class="personal-project__subtitle-item">
+                    
+    
+    
+
+      <span class="date-range">
+          <time>
+            November 19, 2014
+          </time>
+      </span>
+  
+                  </span>
+              
+      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Its a matrimonial Publication for Social Causes.
+      </p>
+
+<!---->    </div>
+  
+<!---->          <a class="personal-project__button" href="https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Esuvarnabandha%2Ecom&amp;urlhash=xATI&amp;trk=public_profile_publication-button" title="Suvarnabandha" rel="nofollow" target="_blank" data-tracking-control-name="public_profile_publication-button" data-tracking-will-navigate="">
+            See publication<img class="personal-project__link-external-icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/8w0vew433o9nluoruq9k5eqy" alt="External link" aria-hidden="true" data-tracking-will-navigate="">
+          </a>
+      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+        </ul>
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          
+    
+
+    
+      
+    <section class="core-section-container core-section-container--with-border pp-section courses" data-section="courses">
+<!---->
+        
+            <h2 class="core-section-container__title">
+              
+        Courses
+      
+            </h2>
+        
+      
+<!---->
+      <div class="core-section-container__content">
+        
+        <ul class="courses__list">
+            
+    
+
+    <li class="profile-section-card ">
+<!----><!---->
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+                MBM
+              
+        </h3>
+
+        <h4 class="profile-section-card__subtitle">-</h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+        </div>
+      </div>
+
+      
+    </li>
+  
+        </ul>
+      
+      </div>
+    </section>
+  
+  
+  
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+          
+    
+
+    
+      
+    <section class="core-section-container core-section-container--with-border pp-section projects" data-section="projects">
+<!---->
+        
+            <h2 class="core-section-container__title">
+              Projects
+            </h2>
+        
+      
+<!---->
+      <div class="core-section-container__content">
+        
+        <ul class="projects__list">
+            
+
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  personal-project">
+<!----><!---->
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+          !dea 3G Postpaid Activation &amp; Provisioning
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+        
+                  
+    
+    
+
+      <span class="date-range">
+<time>Mar 2011</time> - <time>Jul 2011</time><!---->      </span>
+  
+              
+      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Its a 3G Postpaid Activation and Provisioning project for all 22 Circles where in !dea Cellular is providing their Services.
+      </p>
+
+<!---->    </div>
+  
+          <div class="personal-project__contributors-heading">Other creators</div>
+          
+    <ul class="face-pile__list personal-project__contributors">
+<li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Milind R Wagh" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Swapnil Gandhile" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Tarannum" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Abhishek Soni" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Atul Bade" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Nirav Dave" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+        </li>    </ul>
+  
+<!---->      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+            
+
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    <li class="profile-section-card  personal-project">
+<!----><!---->
+      <div class="profile-section-card__contents">
+        <h3 class="profile-section-card__title">
+          
+          !dea 3G Prepaid System Integration Testing
+      
+        </h3>
+
+          <h4 class="profile-section-card__subtitle">
+              
+        
+                  
+    
+    
+
+      <span class="date-range">
+<time>Feb 2011</time> - <time>Jun 2011</time><!---->      </span>
+  
+              
+      
+          </h4>
+
+        
+
+        <div class="profile-section-card__meta">
+          
+          
+    <div class="show-more-less-text">
+      <p class="show-more-less-text__text--less">
+        Its a 3G Prepaid Activation and Provisioning project for all 22 Circles where in !dea Cellular is providing their Services.<br><br>In this project we have done testing for all 22 Circles and luanched Idea 3G successfully all round.<br><br>It's a provisioning System where in different types of !dea suscribers can subscribe to 3G services using different ways of activation activation like customer care, Sending activation SMSes, IVRs, etc.<br><br>We have tested the whole system integration…
+      </p>
+
+        <p class="show-more-less-text__text--more" tabindex="-1">
+          Its a 3G Prepaid Activation and Provisioning project for all 22 Circles where in !dea Cellular is providing their Services.<br><br>In this project we have done testing for all 22 Circles and luanched Idea 3G successfully all round.<br><br>It's a provisioning System where in different types of !dea suscribers can subscribe to 3G services using different ways of activation activation like customer care, Sending activation SMSes, IVRs, etc.<br><br>We have tested the whole system integration testing scenarios for activated and provisioned  using different scenarios and types..
+        </p>
+
+          
+
+    
+    
+
+    <button class="show-more-less-text__button show-more-less-text__button--more" data-tracking-control-name="public_profile_project-description_show-more-text-btn" aria-expanded="false">
+        Show more
+
+        <icon class="show-more-less-text__button-icon" data-delayed-url="https://static-exp1.licdn.com/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+    </button>
+  
+
+          
+
+    
+    
+
+    <button class="show-more-less-text__button show-more-less-text__button--less" data-tracking-control-name="public_profile_project-description_show-less-text-btn" aria-expanded="true">
+        Show less
+
+        <icon class="show-more-less-text__button-icon lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" preserveAspectRatio="xMinYMin meet" focusable="false" class="lazy-loaded"><path d="M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z" fill="currentColor"></path></svg></icon>
+    </button>
+  
+    </div>
+  
+          <div class="personal-project__contributors-heading">Other creators</div>
+          
+    <ul class="face-pile__list personal-project__contributors">
+<li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Milind R Wagh">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Swapnil gandhile">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Atul P Bade">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Pradeep G Pillai">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Tarannum">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Abhishek Soni">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Sayandev Ghosh">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Nirav Dave">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Ganesh Phutane">
+  
+        </li><li class="face-pile__list-item">
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 artdeco-entity-image--ghost face-pile__profile-photo" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Vijayendra Pn Singh">
+  
+        </li>    </ul>
+  
+<!---->      
+        </div>
+      </div>
+
+      
+    </li>
+  
+  
+        </ul>
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+      
+    <section class="core-section-container core-section-container--with-border pp-section recommendations" data-section="recommendations">
+<!---->
+        
+            <h2 class="core-section-container__title">
+              
+        Recommendations received
+      
+            </h2>
+        
+      
+<!---->
+      <div class="core-section-container__content">
+        
+        
+
+    
+    
+
+      <ul class="show-more-less__list show-more-less__list--no-hidden-elems" data-impression-id="public_profile_show-more-less">
+        
+              <li class="recommendations__list-item">
+                
+    <div class="endorsement-card">
+        
+        
+          
+    
+
+    
+
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/ganesh-bhambure-658904b?trk=public_profile_recommendations" target="_self" data-tracking-control-name="public_profile_recommendations" data-tracking-will-navigate="" class="base-card base-card--link base-main-card base-main-card--link endorsement-card__entity">
+        
+
+<!---->
+      
+          
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 " data-delayed-url="https://media-exp1.licdn.com/dms/image/C5103AQEtWLbBeJtUoA/profile-displayphoto-shrink_100_100/0/1566282305892?e=1650499200&amp;v=beta&amp;t=9j-fh3tEy30HDJqG7j6dWe3Cn-ZGfJ2NRtAAr40RXTY" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Click here to view Ganesh Bhambure’s profile">
+  
+
+        <div class="base-main-card__info">
+          <h3 class="base-main-card__title">
+            
+        Ganesh Bhambure
+      
+          </h3>
+
+<!---->
+<!---->
+            <div class="base-main-card__metadata">
+              
+        
+                
+  
+
+    <p class="endorsement-card__content">
+        “Yogesh always known by his co-workers for his willingness to help anyone anytime he can.. He is very well organized, diligent in his paperwork, easily reachable, and always on time. and having great leadership potential !!!!”
+    </p>
+
+
+              
+      
+            </div>
+        </div>
+
+<!---->      
+    
+      </a>
+  
+  
+  
+  
+    </div>
+  
+              </li>
+          
+      </ul>
+
+  
+
+        <p class="recommendations__cta">
+          <span class="recommendations__count">
+            1 person has recommended Yogesh P
+          </span>
+
+          <a class="recommendations__cta-link" href="https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=yogeshpchinchole&amp;trk=public_profile_recommendations" data-tracking-control-name="public_profile_recommendations" data-tracking-will-navigate="">
+              Join now to view
+          </a>
+        </p>
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+        
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <section class="core-section-container bottom-cta-banner">
+<!---->
+<!---->
+<!---->
+      <div class="core-section-container__content">
+        
+      
+    
+
+    <section class="hidden-summary" data-impression-id="public_profile_bottom-cta-banner_guest_hidden_summary">
+          <h2 class="hidden-summary__title">
+            View Yogesh P’S full profile
+          </h2>
+
+      <ul class="hidden-summary__summary-items">
+            <li class="hidden-summary__summary-item">
+              <div class="hidden-summary__summary-item-icon-container">
+                <icon class="hidden-summary__summary-item-icon lazy-loaded" alt="" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 10" width="16" height="16" focusable="false" class="lazy-loaded"><path d="M11 8.13a3.07 3.07 0 01-1.74-.53 4.89 4.89 0 000-5.18 3.12 3.12 0 013.48 5.18 3.18 3.18 0 01-1.74.53zM1.88 5A3.12 3.12 0 015 1.88a3.07 3.07 0 011.74.53 4.89 4.89 0 000 5.18 3.12 3.12 0 01-4.33-.85A3.07 3.07 0 011.88 5zM11 0a5 5 0 00-3 1 5 5 0 100 8 5 5 0 103-9z"></path></svg></icon>
+              </div>
+              <span class="hidden-summary__summary-item-text">
+                See who you know in common
+              </span>
+            </li>
+            <li class="hidden-summary__summary-item">
+              <div class="hidden-summary__summary-item-icon-container">
+                <icon class="hidden-summary__summary-item-icon lazy-loaded" alt="" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 15" width="16" height="16" focusable="false" class="lazy-loaded"><path d="M14 6H6v5h7.52l.48.34zm2-1v10l-3-2H5a1 1 0 01-1-1V5a1 1 0 011-1h10a1 1 0 011 1zM8 9h4V8H8zM2 7h1v2H1a1 1 0 01-1-1V1a1 1 0 011-1h10a1 1 0 011 1v2h-2V2H2z"></path></svg></icon>
+              </div>
+              <span class="hidden-summary__summary-item-text">
+                Get introduced
+              </span>
+            </li>
+            <li class="hidden-summary__summary-item">
+              <div class="hidden-summary__summary-item-icon-container">
+                <icon class="hidden-summary__summary-item-icon" alt="" aria-hidden="true" data-delayed-url="https://static-exp1.licdn.com/sc/h/engl6kavv3716laqjpfbilqqt"></icon>
+              </div>
+              <span class="hidden-summary__summary-item-text">
+                Contact Yogesh P directly
+              </span>
+            </li>
+      </ul>
+
+        
+            <a class="hidden-summary__cta hidden-summary__cta--secondary" href="https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=yogeshpchinchole&amp;trk=public_profile_bottom-cta-banner" data-tracking-control-name="public_profile_bottom-cta-banner" data-tracking-will-navigate="">
+                Join to view full profile
+          </a>
+        
+    </section>
+  
+    
+      </div>
+    </section>
+  
+  
+    
+      </section>
+  
+  
+
+<!---->  
+          
+      
+        </div>
+      </section>
+      <section class="right-rail">
+        
+        
+            
+<!---->
+        
+
+    
+
+    
+      
+    <section class="aside-section-container browsemap">
+
+        
+            <h2 class="aside-section-container__title">
+              
+        People also viewed
+      
+            </h2>
+        
+      
+<!---->
+      <div class="aside-section-container__content">
+        
+        
+
+    
+    
+    
+
+    
+
+    
+    
+
+      <div class="show-more-less aside-profiles-list">
+<!---->
+        <ul data-max-num-to-show="10" class="show-more-less__list
+            show-more-less__list--hide-after-10
+            show-more-less__list--hide-after-10-with-animations" data-impression-id="public_profile_browsemap_show-more-less">
+          
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://www.linkedin.com/in/tochiamadife?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-0" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 " data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E03AQHNpAWWPxyFCw/profile-displayphoto-shrink_100_100/0/1579148283957?e=1650499200&amp;v=beta&amp;t=AE9f8FAu9MtqtDU2vqj0r8RA3_q9xqj5OPPiT5KYXOQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Tochi Amadife
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Senior Executive - Technology Program &amp; Change Management - Process Optimization - Strategic Business Transformation - Stakeholder Engagement - IT Governance
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Frisco, TX<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://no.linkedin.com/in/henriettes1?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-1" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 " data-delayed-url="https://media-exp1.licdn.com/dms/image/C4D03AQFvMTGfjk2O9Q/profile-displayphoto-shrink_100_100/0/1624016220348?e=1650499200&amp;v=beta&amp;t=wNuH_DcKODL3MX6ASSSEHAjfcLoN3Qwe0xZQgPllo5Q" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Henriette Sæther Tveit
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Director Partner &amp; Bank at Tryg / Commercial Executive / Digital Strategy / Sustainable Business Development
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Bergen<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://www.linkedin.com/in/meetthomasmartin?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-2" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 " data-delayed-url="https://media-exp1.licdn.com/dms/image/C5603AQFQoOWT9kgiAQ/profile-displayphoto-shrink_100_100/0/1618983289271?e=1650499200&amp;v=beta&amp;t=W2HjX1YGYYDYTaZ4IZnOg7gNSfN3M7tQ2BkuL3Fj_gw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Thomas Martin
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Servant Leader | Technology Enthusiast | Problem Solver | People First Advocate
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Austin, TX<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://gh.linkedin.com/in/samueldakurah?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-3" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 " data-delayed-url="https://media-exp1.licdn.com/dms/image/C4D03AQESP05Fjcri2A/profile-displayphoto-shrink_100_100/0/1516905041000?e=1650499200&amp;v=beta&amp;t=B5sZc7l3Kf98vzrVFGmKQtdnF3zvE-KOnNK7coSdizU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Samuel Dakurah
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Seasoned CIO and  strong advocate of the power AI and Data Analytics in Digital Transformation. 
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Greater Accra, Ghana<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/pranjal-kamra-365355a0?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-4" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5103AQGKaswyYdhmBw/profile-displayphoto-shrink_100_100/0/1577891212365?e=1650499200&amp;v=beta&amp;t=feDKQcKvtYMRy_FrfTDFzaNmZMxhLR8EifoIaVjcBz8">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Pranjal Kamra
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Building Finology.in. Early Stage Investor. 
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Raipur<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/kalpesh-mistari-624592216?trk=public_profile_browsemap" target="_self" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C4D03AQE9xvPYNIT1Iw/profile-displayphoto-shrink_100_100/0/1625458674446?e=1650499200&amp;v=beta&amp;t=vGtWZwhRJ3mD3_7ICr5hq8lqoKICEq8JWn7dnvs3hfk">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Kalpesh Mistari
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Team Lead at UNIQUE DELTA FORCE SECURITY PRIVATE LIMITED
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Pune/Pimpri-Chinchwad Area<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/nikita-barde-71b4aab6?trk=public_profile_browsemap" target="_self" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5103AQG1j9lvo5lkTg/profile-displayphoto-shrink_100_100/0/1530611215703?e=1650499200&amp;v=beta&amp;t=999Df_jwEYxDs8GLqp2BNHznAI6fIyzvQW7mXqXAlQ0">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        nikita Barde
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Nikita Firake
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Pune<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/rajshree-rane-829431136?trk=public_profile_browsemap" target="_self" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 artdeco-entity-image--ghost lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Rajshree Rane
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Self Employed at Shree Samarth consultancy
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Thane<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://za.linkedin.com/in/amanda-jonas-561203171?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-8" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5603AQE8US5IwF2XGA/profile-displayphoto-shrink_100_100/0/1580121084106?e=1650499200&amp;v=beta&amp;t=cuiqoNWhuLN9D7CM03Dgu4NYjtOxF8ua7APi8HjOdoc">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Amanda Jonas
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Amanda
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Port Elizabeth Metropolitan Area<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/vipin-patidar-b0188121?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-9" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 artdeco-entity-image--ghost" data-delayed-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        vipin patidar
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Project Lead Development at BNY Mellon (Inautix)
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Pune<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/murli-raju-a19a4b35?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-10" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 artdeco-entity-image--ghost lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Murli raju
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        officer at NCC Construction AS
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Hyderabad<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/mabdeep-singh-a8375230?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-11" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5603AQH3WeLSbQ0E-Q/profile-displayphoto-shrink_100_100/0/1516454349792?e=1650499200&amp;v=beta&amp;t=EgKq7BkHdo1VX1AuppOLc2hCyrZtr5_UPwghYbrrh0U">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Mabdeep Singh
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Accountant at Land Power
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Moga<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/komal-jadhav-40a9b0158?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-12" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 artdeco-entity-image--ghost lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Komal Jadhav
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Software Engineer at Cognizant
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Pune<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/nikita-barde-099a18206?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-13" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5603AQG4Bqx9RQ0-Wg/profile-displayphoto-shrink_100_100/0/1613107666405?e=1650499200&amp;v=beta&amp;t=9ciSb68eWlddCRCQ9gfW9ywe1wBgbmPMYX31yjzOTyE">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        nikita barde
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        --
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Pune<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/manish-kumar-761b6b169?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-14" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5103AQF5HOhZA9bwCA/profile-displayphoto-shrink_100_100/0/1542579596752?e=1650499200&amp;v=beta&amp;t=iq4FGAnoqk9Md0RVMB6mYATdY70hWD8WZUbV_WkEk_s">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Manish Kumar
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        backend developer
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Bengaluru<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://dk.linkedin.com/in/veena-gudur-64131b1a?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-15" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C4D03AQHC-9JiKTOI7A/profile-displayphoto-shrink_100_100/0/1516841717118?e=1650499200&amp;v=beta&amp;t=tBnt64T3fWyQvEtyH7uMZPxKJ6TMfnCjkKX2Iv9xDIM">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Veena Gudur
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Software Developer at LEMAN International System Transport A/S
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              South Denmark, Denmark<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/chetan-khedkar-bb0b3855?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-16" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5103AQGDDCIACoBW3A/profile-displayphoto-shrink_100_100/0/1516885671288?e=1650499200&amp;v=beta&amp;t=9IPePGeVZkWJg2RDCqE80pj8P4NZqjuq_oG6x5VCNmk">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        chetan khedkar
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        --
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              India<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/amar-kadam-b149581a0?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-17" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5103AQGwdOdvmzWGxQ/profile-displayphoto-shrink_100_100/0/1579946667402?e=1650499200&amp;v=beta&amp;t=kV91trhAuR4pxfg4lBP1vNRCu9bwL4FumADT2RCeD_U">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Amar Kadam
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        Attended Aurangabad or ITI selu
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Maharashtra, India<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/malyadri-kaku-7296b63b?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-18" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5103AQHo1SYyTjxQlg/profile-displayphoto-shrink_100_100/0/1559631718897?e=1650499200&amp;v=beta&amp;t=qaBM5gFQkCjjKqbUBp41_OYclatudaHeiPaJmGKrDDQ">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Malyadri Kaku
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        QA Practice Lead at TechSynchro with 18 years experience in Software Testing E2E - Manual Testing, Automation Testing, Performance Testing, Security Testing, Test SME, Testing Head, QA Manager
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Hyderabad<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li>
+              
+    
+    
+      
+
+    
+      <a href="https://in.linkedin.com/in/yogesh-raut-49b58273?trk=public_profile_browsemap" target="_self" data-impression-id="public_profile_browsemap-19" data-tracking-control-name="public_profile_browsemap" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link">
+        
+
+<!---->
+      
+<!---->
+            
+
+            
+      <img class="artdeco-entity-image artdeco-entity-image--circle-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="" src="https://media-exp1.licdn.com/dms/image/C5103AQEkVDehAg76fQ/profile-displayphoto-shrink_100_100/0/1581593393879?e=1650499200&amp;v=beta&amp;t=al6O7GY3BH0oBC7psha2vlSTv4XmiVbgwwuvUKrcfZc">
+  
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Yogesh Raut
+      
+<!---->          </h3>
+
+            <p class="base-aside-card__subtitle">
+              
+        QA Manager at Quikr
+      
+            </p>
+
+<!---->
+<!---->
+            <div class="base-aside-card__metadata">
+              Mumbai<!---->
+            </div>
+        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+      
+        </ul>
+
+            <button class="show-more-less__button show-more-less__more-button
+                          " aria-expanded="false" data-tracking-control-name="public_profile_browsemap_show_more">
+                
+        Show more profiles
+      
+              <icon class="show-more-less__button--chevron" data-delayed-url="https://static-exp1.licdn.com/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+            </button>
+
+            <button class="show-more-less__button show-more-less__less-button
+                          show-more-less__button--hide" aria-expanded="false" data-tracking-control-name="public_profile_browsemap_show_more">
+                
+        Show fewer profiles
+      
+              <icon class="show-more-less__button--chevron lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" preserveAspectRatio="xMinYMin meet" focusable="false" class="lazy-loaded"><path d="M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z" fill="currentColor"></path></svg></icon>
+            </button>
+      </div>
+
+  
+  
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          
+
+    
+    
+    
+
+    
+      
+    <section class="aside-section-container locale-switcher">
+
+        
+            <h2 class="aside-section-container__title">
+              
+        View this profile in another language
+      
+            </h2>
+        
+      
+<!---->
+      <div class="aside-section-container__content">
+        
+        
+
+    
+
+    <div class="collapsible-dropdown">
+          
+            <button class="locale-switcher__button collapsible-dropdown__button" aria-label="Select profile language" aria-expanded="false" data-tracking-control-name="public_profile_locale-switcher-button">
+              <span class="locale-switcher__button-text">
+                  English
+                </span>
+              <img class="locale-switcher__chevron--down" alt="Expand" data-delayed-url="https://static-exp1.licdn.com/sc/h/ap3ud62vhbicaqmkls1wk2an1">
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden" role="menu" tabindex="-1">
+          
+              <li class="locale-switcher__list-item" role="menuitem">
+                <a class="locale-switcher__link " href="https://in.linkedin.com/in/yogeshpchinchole/fr?trk=public_profile_locale-url" data-tracking-will-navigate="" data-tracking-control-name="public_profile_locale-url">
+                  French
+                </a>
+              </li>
+              <li class="locale-switcher__list-item" role="menuitem">
+                <a class="locale-switcher__link locale-switcher__link--current" href="https://in.linkedin.com/in/yogeshpchinchole?trk=public_profile_locale-url" data-tracking-will-navigate="" data-tracking-control-name="public_profile_locale-url">
+                  English
+                </a>
+              </li>
+              <li class="locale-switcher__list-item" role="menuitem">
+                <a class="locale-switcher__link " href="https://in.linkedin.com/in/yogeshpchinchole/de?trk=public_profile_locale-url" data-tracking-will-navigate="" data-tracking-control-name="public_profile_locale-url">
+                  German
+                </a>
+              </li>
+          
+        </ul>
+
+<!---->    </div>
+  
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          
+    
+    
+
+    
+      
+    <section class="aside-section-container course-recommendations">
+
+        
+            <h2 class="aside-section-container__title">
+              
+        Add new skills with these courses
+      
+            </h2>
+        
+      
+<!---->
+      <div class="aside-section-container__content">
+        
+        <ul class="course-recommendations__courses">
+            <li class="course-recommendations__course">
+              
+     
+
+    
+    
+      
+
+    
+      <a href="https://www.linkedin.com/learning/selenium-essential-training?trk=public_profile_recommended-course" target="_self" data-tracking-control-name="public_profile_recommended-course" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link aside-learning-course-card">
+        
+
+<!---->
+      
+            <div class="base-aside-card__media">
+              
+        <img class="base-aside-card__media-element" alt="" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4D0DAQE-vCuZH-c_Ag/learning-public-crop_144_256/0/1589403093921?e=1644991200&amp;v=beta&amp;t=hD-8qy-m_HmieamhHocnJV2joi7df-21J2Qg-0dJRTA">
+<!---->      
+                <icon class="base-aside-card__play-button overlay-center" data-delayed-url="https://static-exp1.licdn.com/sc/h/9n9raq7fmdu241tpsxwodsmcd" data-svg-class-name="base-aside-card__play-button-svg"></icon>
+            </div>
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Selenium Essential Training
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+<!---->        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li class="course-recommendations__course">
+              
+     
+
+    
+    
+      
+
+    
+      <a href="https://www.linkedin.com/learning/software-testing-foundations-bug-writing-and-management?trk=public_profile_recommended-course" target="_self" data-tracking-control-name="public_profile_recommended-course" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link aside-learning-course-card">
+        
+
+<!---->
+      
+            <div class="base-aside-card__media">
+              
+        <img class="base-aside-card__media-element" alt="" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0DAQGTitNMKQPMKg/learning-public-crop_144_256/0/1597164661723?e=1644991200&amp;v=beta&amp;t=o0CwlnSXoZegBMqCBAlY6R3mKCtja6qEGa02wB039ac">
+<!---->      
+                <icon class="base-aside-card__play-button overlay-center" data-delayed-url="https://static-exp1.licdn.com/sc/h/9n9raq7fmdu241tpsxwodsmcd" data-svg-class-name="base-aside-card__play-button-svg"></icon>
+            </div>
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Software Testing Foundations: Bug Writing and Management
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+<!---->        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+            <li class="course-recommendations__course">
+              
+     
+
+    
+    
+      
+
+    
+      <a href="https://www.linkedin.com/learning/software-testing-foundations-test-planning?trk=public_profile_recommended-course" target="_self" data-tracking-control-name="public_profile_recommended-course" data-tracking-will-navigate="" class="base-card base-card--link base-aside-card base-aside-card--link aside-learning-course-card">
+        
+
+<!---->
+      
+            <div class="base-aside-card__media">
+              
+        <img class="base-aside-card__media-element" alt="" data-delayed-url="https://media-exp1.licdn.com/dms/image/C4E0DAQGSz3nvVPFgog/learning-public-crop_144_256/0/1581104774840?e=1644991200&amp;v=beta&amp;t=KibKOrsC3Or7HyF94GAlWzCyO_2e29NZGcB1nOMNPEA">
+<!---->      
+                <icon class="base-aside-card__play-button overlay-center" data-delayed-url="https://static-exp1.licdn.com/sc/h/9n9raq7fmdu241tpsxwodsmcd" data-svg-class-name="base-aside-card__play-button-svg"></icon>
+            </div>
+
+        <div class="base-aside-card__info">
+          <h3 class="base-aside-card__title">
+            
+        Software Testing Foundations: Test Planning
+      
+<!---->          </h3>
+
+<!---->
+<!---->
+<!---->
+<!---->        </div>
+      
+    
+      </a>
+  
+  
+  
+  
+            </li>
+        </ul>
+        <a href="https://www.linkedin.com/learning/?trk=seo_pp_d_cymbii_more_m015_learning" class="course-recommendations__view-all-link" data-tracking-control-name="seo_pp_d_cymbii_more_m015_learning" data-tracking-will-navigate="">
+             See all courses
+        </a>
+      
+      </div>
+    </section>
+  
+  
+  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+          
+
+    
+    
+    
+
+    
+      
+    <section class="aside-section-container badge">
+
+        
+            <h2 class="aside-section-container__title">
+              
+        Yogesh P’S public profile badge
+      
+            </h2>
+        
+      
+<!---->
+      <div class="aside-section-container__content">
+        
+        <p class="badge__subheading">Include this LinkedIn profile on other websites</p>
+        
+
+    
+    
+    
+    
+    
+    
+
+    <article class="profile-card profile-card--badge" itemscope="" itemtype="http://schema.org/Person">
+      <header class="profile-card__header">
+      
+      <img class="artdeco-entity-image artdeco-entity-image--circle-3 profile-card__profile-image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt="Yogesh P Chinchole" src="https://media-exp1.licdn.com/dms/image/C4D03AQEc4ySKBrFTFw/profile-displayphoto-shrink_200_200/0/1516893179654?e=1650499200&amp;v=beta&amp;t=s3qUahbe1wTypAAsfweqemxKyLId69y6BugXJ6yCwag">
+  
+        <div class="profile-card__header-info">
+            <h3 class="profile-card__header-name" itemprop="name">
+              Yogesh P Chinchole
+            </h3>
+            <p class="profile-card__header-headline" itemprop="jobTitle">Expert in Technology | Testing | Automation | Selenium | Personal Finance | Money | Digitalization | Business | On a mission to Educate Lives to grow 10X</p>
+        </div>
+      </header>
+        <section class="profile-card__section ">
+          <ul class="profile-card__list">
+              
+      <li class="profile-list-item profile-list-item--company profile-badge-item" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization">
+        
+
+    
+    
+    
+
+    
+      <img class="artdeco-entity-image artdeco-entity-image--square-1 profile-list-item__image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/3dtfvv2esz58o2zimai1h3v2d" alt="company image for FIS" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEok08w8MNWeg/company-logo_100_100/0/1564578176780?e=1652918400&amp;v=beta&amp;t=5H1hvXnTajhvNteC-80NyY1Yd_M68P06cWbrIS7seVA">
+  
+    <p class="profile-list-item__name profile-list-item__name--company" itemprop="name">
+        Quality Assurance Manager at FIS
+    </p>
+  
+      </li>
+  
+          </ul>
+        </section>
+<!---->        <section class="profile-card__section">
+<!---->          <ul class="profile-card__list">
+              
+      <li class="profile-list-item profile-list-item--school profile-badge-item" itemprop="affiliation" itemscope="" itemtype="http://schema.org/Organization">
+        
+
+    
+    
+    
+
+    
+      <img class="artdeco-entity-image artdeco-entity-image--square-1 profile-list-item__image lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/csnc6op83cjt60ym5equoy1km" alt="school image for North Maharashtra University" src="https://media-exp1.licdn.com/dms/image/C560BAQG5iiWeIshB0g/company-logo_100_100/0/1519901466945?e=1652918400&amp;v=beta&amp;t=4cIASy0ib1ypLnnXJRMryiLLr208pTm9x1gIXd88rOw">
+  
+    <p class="profile-list-item__name profile-list-item__name--school" itemprop="name">
+        North Maharashtra University
+    </p>
+  
+      </li>
+  
+          </ul>
+        </section>
+<!---->      <footer class="profile-card__footer profile-card__footer--badge">
+          <button disabled="" class="profile-card__footer-button">View profile</button>
+          <icon class="profile-card__linkedin-logo lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet" version="1.1" focusable="false" class="lazy-loaded">
+  <g class="scaling-icon" style="fill-opacity: 1">
+    <g class="logo-14dp">
+      <g class="dpi-1">
+        <g class="inbug" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <path d="M14,1.25 L14,12.75 C14,13.44 13.44,14 12.75,14 L1.25,14 C0.56,14 0,13.44 0,12.75 L0,1.25 C0,0.56 0.56,0 1.25,0 L12.75,0 C13.44,0 14,0.56 14,1.25" class="bug-text-color" fill="#FFFFFF" transform="translate(42.000000, 0.000000)"></path>
+          <path d="M56,1.25 L56,12.75 C56,13.44 55.44,14 54.75,14 L43.25,14 C42.56,14 42,13.44 42,12.75 L42,1.25 C42,0.56 42.56,0 43.25,0 L54.75,0 C55.44,0 56,0.56 56,1.25 Z M47,5 L48.85,5 L48.85,6.016 L48.893,6.016 C49.259,5.541 50.018,4.938 51.25,4.938 C53.125,4.938 54,5.808 54,8 L54,12 L52,12 L52,8.75 C52,7.313 51.672,6.875 50.632,6.875 C49.5,6.875 49,7.75 49,9 L49,12 L47,12 L47,5 Z M44,12 L46,12 L46,5 L44,5 L44,12 Z M46.335,3 C46.335,3.737 45.737,4.335 45,4.335 C44.263,4.335 43.665,3.737 43.665,3 C43.665,2.263 44.263,1.665 45,1.665 C45.737,1.665 46.335,2.263 46.335,3 Z" class="background" fill="currentColor"></path>
+        </g>
+        <g class="linkedin-text">
+          <path d="M40,12 L38.107,12 L38.107,11.1 L38.077,11.1 C37.847,11.518 37.125,12.062 36.167,12.062 C34.174,12.062 33,10.521 33,8.5 C33,6.479 34.291,4.938 36.2,4.938 C36.971,4.938 37.687,5.332 37.97,5.698 L38,5.698 L38,2 L40,2 L40,12 Z M36.475,6.75 C35.517,6.75 34.875,7.49 34.875,8.5 C34.875,9.51 35.529,10.25 36.475,10.25 C37.422,10.25 38.125,9.609 38.125,8.5 C38.125,7.406 37.433,6.75 36.475,6.75 L36.475,6.75 Z" fill="currentColor"></path>
+          <path d="M31.7628,10.8217 C31.0968,11.5887 29.9308,12.0627 28.4998,12.0627 C26.3388,12.0627 24.9998,10.6867 24.9998,8.4477 C24.9998,6.3937 26.4328,4.9377 28.6578,4.9377 C30.6758,4.9377 31.9998,6.3497 31.9998,8.6527 C31.9998,8.8457 31.9708,8.9997 31.9708,8.9997 L26.8228,8.9997 L26.8348,9.1487 C26.9538,9.8197 27.6008,10.5797 28.6358,10.5797 C29.6528,10.5797 30.2068,10.1567 30.4718,9.8587 L31.7628,10.8217 Z M30.2268,7.9047 C30.2268,7.0627 29.5848,6.4297 28.6508,6.4297 C27.6058,6.4297 26.9368,7.0597 26.8728,7.9047 L30.2268,7.9047 Z" fill="currentColor"></path>
+          <polygon fill="currentColor" points="18 2 20 2 20 7.882 22.546 5 25 5 21.9 8.199 24.889 12 22.546 12 20 8.515 20 12 18 12"></polygon>
+          <path d="M10,5 L11.85,5 L11.85,5.906 L11.893,5.906 C12.283,5.434 13.031,4.938 14.14,4.938 C16.266,4.938 17,6.094 17,8.285 L17,12 L15,12 L15,8.73 C15,7.943 14.821,6.75 13.659,6.75 C12.482,6.75 12,7.844 12,8.73 L12,12 L10,12 L10,5 Z" fill="currentColor"></path>
+          <path d="M7,12 L9,12 L9,5 L7,5 L7,12 Z M8,1.75 C8.659,1.75 9.25,2.341 9.25,3 C9.25,3.659 8.659,4.25 8,4.25 C7.34,4.25 6.75,3.659 6.75,3 C6.75,2.341 7.34,1.75 8,1.75 L8,1.75 Z" fill="currentColor"></path>
+          <polygon fill="currentColor" points="0 2 2 2 2 10 6 10 6 12 0 12"></polygon>
+        </g>
+      </g>
+    </g>
+  </g>
+    </svg></icon>
+      </footer>
+    </article>
+  
+        <a class="badge__link" href="https://www.linkedin.com/badges/profile/create?vanityname=yogeshpchinchole&amp;preferredlocale=en_US&amp;trk=public_profile_badge" data-tracking-control-name="public_profile_badge" data-tracking-will-navigate="">
+          View profile badges
+        </a>
+      
+      </div>
+    </section>
+  
+  
+  
+
+
+<!---->  
+          
+      
+      </section>
+    </main>
+
+<!---->
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <footer class="li-footer ">
+      <ul class="li-footer__list">
+        <li class="li-footer__item">
+          <span class="sr-only">LinkedIn</span>
+          <icon class="li-footer__copy-logo lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 56 14" preserveAspectRatio="xMinYMin meet" version="1.1" fill="CurrentColor" focusable="false" class="lazy-loaded">
+    <g class="inbug" fill-rule="evenodd">
+      <path d="M14,1.25 L14,12.75 C14,13.44 13.44,14 12.75,14 L1.25,14 C0.56,14 0,13.44 0,12.75 L0,1.25 C0,0.56 0.56,0 1.25,0 L12.75,0 C13.44,0 14,0.56 14,1.25" class="bug-text-color" fill="#FFFFFF" transform="translate(42.000000, 0.000000)"></path>
+      <path d="M56,1.25 L56,12.75 C56,13.44 55.44,14 54.75,14 L43.25,14 C42.56,14 42,13.44 42,12.75 L42,1.25 C42,0.56 42.56,0 43.25,0 L54.75,0 C55.44,0 56,0.56 56,1.25 Z M47,5 L48.85,5 L48.85,6.016 L48.893,6.016 C49.259,5.541 50.018,4.938 51.25,4.938 C53.125,4.938 54,5.808 54,8 L54,12 L52,12 L52,8.75 C52,7.313 51.672,6.875 50.632,6.875 C49.5,6.875 49,7.75 49,9 L49,12 L47,12 L47,5 Z M44,12 L46,12 L46,5 L44,5 L44,12 Z M46.335,3 C46.335,3.737 45.737,4.335 45,4.335 C44.263,4.335 43.665,3.737 43.665,3 C43.665,2.263 44.263,1.665 45,1.665 C45.737,1.665 46.335,2.263 46.335,3 Z" class="background"></path>
+    </g>
+    <g class="linkedin-text">
+      <path d="M40,12 L38.107,12 L38.107,11.1 L38.077,11.1 C37.847,11.518 37.125,12.062 36.167,12.062 C34.174,12.062 33,10.521 33,8.5 C33,6.479 34.291,4.938 36.2,4.938 C36.971,4.938 37.687,5.332 37.97,5.698 L38,5.698 L38,2 L40,2 L40,12 Z M36.475,6.75 C35.517,6.75 34.875,7.49 34.875,8.5 C34.875,9.51 35.529,10.25 36.475,10.25 C37.422,10.25 38.125,9.609 38.125,8.5 C38.125,7.406 37.433,6.75 36.475,6.75 L36.475,6.75 Z"></path>
+      <path d="M31.7628,10.8217 C31.0968,11.5887 29.9308,12.0627 28.4998,12.0627 C26.3388,12.0627 24.9998,10.6867 24.9998,8.4477 C24.9998,6.3937 26.4328,4.9377 28.6578,4.9377 C30.6758,4.9377 31.9998,6.3497 31.9998,8.6527 C31.9998,8.8457 31.9708,8.9997 31.9708,8.9997 L26.8228,8.9997 L26.8348,9.1487 C26.9538,9.8197 27.6008,10.5797 28.6358,10.5797 C29.6528,10.5797 30.2068,10.1567 30.4718,9.8587 L31.7628,10.8217 Z M30.2268,7.9047 C30.2268,7.0627 29.5848,6.4297 28.6508,6.4297 C27.6058,6.4297 26.9368,7.0597 26.8728,7.9047 L30.2268,7.9047 Z"></path>
+      <polygon points="18 2 20 2 20 7.882 22.546 5 25 5 21.9 8.199 24.889 12 22.546 12 20 8.515 20 12 18 12"></polygon>
+      <path d="M10,5 L11.85,5 L11.85,5.906 L11.893,5.906 C12.283,5.434 13.031,4.938 14.14,4.938 C16.266,4.938 17,6.094 17,8.285 L17,12 L15,12 L15,8.73 C15,7.943 14.821,6.75 13.659,6.75 C12.482,6.75 12,7.844 12,8.73 L12,12 L10,12 L10,5 Z"></path>
+      <path d="M7,12 L9,12 L9,5 L7,5 L7,12 Z M8,1.75 C8.659,1.75 9.25,2.341 9.25,3 C9.25,3.659 8.659,4.25 8,4.25 C7.34,4.25 6.75,3.659 6.75,3 C6.75,2.341 7.34,1.75 8,1.75 L8,1.75 Z"></path>
+      <polygon points="0 2 2 2 2 10 6 10 6 12 0 12"></polygon>
+  </g>
+</svg></icon>
+          <span class="li-footer__copy-text">© 2022</span>
+        </li>
+        <li class="li-footer__item">
+          <a href="https://about.linkedin.com?trk=public_profile_v3_desktop_footer-about" data-tracking-control-name="public_profile_v3_desktop_footer-about" data-tracking-will-navigate="" class="li-footer__item-link">
+            About
+          </a>
+        </li>
+        <li class="li-footer__item">
+          <a href="https://www.linkedin.com/accessibility?trk=public_profile_v3_desktop_footer-accessibility" data-tracking-control-name="public_profile_v3_desktop_footer-accessibility" data-tracking-will-navigate="" class="li-footer__item-link">
+            Accessibility
+          </a>
+        </li>
+        <li class="li-footer__item">
+          <a href="https://www.linkedin.com/legal/user-agreement?trk=public_profile_v3_desktop_footer-user-agreement" data-tracking-control-name="public_profile_v3_desktop_footer-user-agreement" data-tracking-will-navigate="" class="li-footer__item-link">
+            User Agreement
+          </a>
+        </li>
+        <li class="li-footer__item">
+          <a href="https://www.linkedin.com/legal/privacy-policy?trk=public_profile_v3_desktop_footer-privacy-policy" data-tracking-control-name="public_profile_v3_desktop_footer-privacy-policy" data-tracking-will-navigate="" class="li-footer__item-link">
+            Privacy Policy
+          </a>
+        </li>
+        <li class="li-footer__item">
+          <a href="https://www.linkedin.com/legal/cookie-policy?trk=public_profile_v3_desktop_footer-cookie-policy" data-tracking-control-name="public_profile_v3_desktop_footer-cookie-policy" data-tracking-will-navigate="" class="li-footer__item-link">
+            Cookie Policy
+          </a>
+        </li>
+        <li class="li-footer__item">
+          <a href="https://www.linkedin.com/legal/copyright-policy?trk=public_profile_v3_desktop_footer-copyright-policy" data-tracking-control-name="public_profile_v3_desktop_footer-copyright-policy" data-tracking-will-navigate="" class="li-footer__item-link">
+            Copyright Policy
+          </a>
+        </li>
+        <li class="li-footer__item">
+          <a href="https://brand.linkedin.com/policies?trk=public_profile_v3_desktop_footer-brand-policy" data-tracking-control-name="public_profile_v3_desktop_footer-brand-policy" data-tracking-will-navigate="" class="li-footer__item-link">
+            Brand Policy
+          </a>
+        </li>
+        <li class="li-footer__item">
+          <a href="https://www.linkedin.com/psettings/guest-controls?trk=public_profile_v3_desktop_footer-guest-controls" data-tracking-control-name="public_profile_v3_desktop_footer-guest-controls" data-tracking-will-navigate="" class="li-footer__item-link">
+            Guest Controls
+          </a>
+        </li>
+        <li class="li-footer__item">
+          <a href="https://www.linkedin.com/legal/professional-community-policies?trk=public_profile_v3_desktop_footer-community-guide" data-tracking-control-name="public_profile_v3_desktop_footer-community-guide" data-tracking-will-navigate="" class="li-footer__item-link">
+            Community Guidelines
+          </a>
+        </li>
+          
+
+          <li class="li-footer__item">
+              
+
+    
+    
+
+    
+
+    
+
+    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up language-selector">
+<!---->
+        <ul class="collapsible-dropdown__list hidden" role="menu" tabindex="-1">
+          
+          <li aria-label="العربية (Arabic)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="العربية (Arabic)" class="language-selector__link " data-tracking-control-name="language-selector-ar_AE" data-locale="ar_AE" role="menuitem" lang="ar_AE">
+                العربية (Arabic)
+            </button>
+          </li>
+          <li aria-label="Čeština (Czech)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Čeština (Czech)" class="language-selector__link " data-tracking-control-name="language-selector-cs_CZ" data-locale="cs_CZ" role="menuitem" lang="cs_CZ">
+                Čeština (Czech)
+            </button>
+          </li>
+          <li aria-label="Dansk (Danish)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Dansk (Danish)" class="language-selector__link " data-tracking-control-name="language-selector-da_DK" data-locale="da_DK" role="menuitem" lang="da_DK">
+                Dansk (Danish)
+            </button>
+          </li>
+          <li aria-label="Deutsch (German)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Deutsch (German)" class="language-selector__link " data-tracking-control-name="language-selector-de_DE" data-locale="de_DE" role="menuitem" lang="de_DE">
+                Deutsch (German)
+            </button>
+          </li>
+          <li aria-label="English (English) selected" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="English (English) selected" class="language-selector__link language-selector__link--selected" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
+                <strong>English (English)</strong>
+            </button>
+          </li>
+          <li aria-label="Español (Spanish)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Español (Spanish)" class="language-selector__link " data-tracking-control-name="language-selector-es_ES" data-locale="es_ES" role="menuitem" lang="es_ES">
+                Español (Spanish)
+            </button>
+          </li>
+          <li aria-label="Français (French)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Français (French)" class="language-selector__link " data-tracking-control-name="language-selector-fr_FR" data-locale="fr_FR" role="menuitem" lang="fr_FR">
+                Français (French)
+            </button>
+          </li>
+          <li aria-label="हिंदी (Hindi)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="हिंदी (Hindi)" class="language-selector__link " data-tracking-control-name="language-selector-hi_IN" data-locale="hi_IN" role="menuitem" lang="hi_IN">
+                हिंदी (Hindi)
+            </button>
+          </li>
+          <li aria-label="Bahasa Indonesia (Bahasa Indonesia)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Indonesia (Bahasa Indonesia)" class="language-selector__link " data-tracking-control-name="language-selector-in_ID" data-locale="in_ID" role="menuitem" lang="in_ID">
+                Bahasa Indonesia (Bahasa Indonesia)
+            </button>
+          </li>
+          <li aria-label="Italiano (Italian)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Italiano (Italian)" class="language-selector__link " data-tracking-control-name="language-selector-it_IT" data-locale="it_IT" role="menuitem" lang="it_IT">
+                Italiano (Italian)
+            </button>
+          </li>
+          <li aria-label="日本語 (Japanese)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="日本語 (Japanese)" class="language-selector__link " data-tracking-control-name="language-selector-ja_JP" data-locale="ja_JP" role="menuitem" lang="ja_JP">
+                日本語 (Japanese)
+            </button>
+          </li>
+          <li aria-label="한국어 (Korean)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="한국어 (Korean)" class="language-selector__link " data-tracking-control-name="language-selector-ko_KR" data-locale="ko_KR" role="menuitem" lang="ko_KR">
+                한국어 (Korean)
+            </button>
+          </li>
+          <li aria-label="Bahasa Malaysia (Malay)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Malaysia (Malay)" class="language-selector__link " data-tracking-control-name="language-selector-ms_MY" data-locale="ms_MY" role="menuitem" lang="ms_MY">
+                Bahasa Malaysia (Malay)
+            </button>
+          </li>
+          <li aria-label="Nederlands (Dutch)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Nederlands (Dutch)" class="language-selector__link " data-tracking-control-name="language-selector-nl_NL" data-locale="nl_NL" role="menuitem" lang="nl_NL">
+                Nederlands (Dutch)
+            </button>
+          </li>
+          <li aria-label="Norsk (Norwegian)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Norsk (Norwegian)" class="language-selector__link " data-tracking-control-name="language-selector-no_NO" data-locale="no_NO" role="menuitem" lang="no_NO">
+                Norsk (Norwegian)
+            </button>
+          </li>
+          <li aria-label="Polski (Polish)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Polski (Polish)" class="language-selector__link " data-tracking-control-name="language-selector-pl_PL" data-locale="pl_PL" role="menuitem" lang="pl_PL">
+                Polski (Polish)
+            </button>
+          </li>
+          <li aria-label="Português (Portuguese)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Português (Portuguese)" class="language-selector__link " data-tracking-control-name="language-selector-pt_BR" data-locale="pt_BR" role="menuitem" lang="pt_BR">
+                Português (Portuguese)
+            </button>
+          </li>
+          <li aria-label="Română (Romanian)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Română (Romanian)" class="language-selector__link " data-tracking-control-name="language-selector-ro_RO" data-locale="ro_RO" role="menuitem" lang="ro_RO">
+                Română (Romanian)
+            </button>
+          </li>
+          <li aria-label="Русский (Russian)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Русский (Russian)" class="language-selector__link " data-tracking-control-name="language-selector-ru_RU" data-locale="ru_RU" role="menuitem" lang="ru_RU">
+                Русский (Russian)
+            </button>
+          </li>
+          <li aria-label="Svenska (Swedish)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Svenska (Swedish)" class="language-selector__link " data-tracking-control-name="language-selector-sv_SE" data-locale="sv_SE" role="menuitem" lang="sv_SE">
+                Svenska (Swedish)
+            </button>
+          </li>
+          <li aria-label="ภาษาไทย (Thai)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ภาษาไทย (Thai)" class="language-selector__link " data-tracking-control-name="language-selector-th_TH" data-locale="th_TH" role="menuitem" lang="th_TH">
+                ภาษาไทย (Thai)
+            </button>
+          </li>
+          <li aria-label="Tagalog (Tagalog)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tagalog (Tagalog)" class="language-selector__link " data-tracking-control-name="language-selector-tl_PH" data-locale="tl_PH" role="menuitem" lang="tl_PH">
+                Tagalog (Tagalog)
+            </button>
+          </li>
+          <li aria-label="Türkçe (Turkish)" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Türkçe (Turkish)" class="language-selector__link " data-tracking-control-name="language-selector-tr_TR" data-locale="tr_TR" role="menuitem" lang="tr_TR">
+                Türkçe (Turkish)
+            </button>
+          </li>
+          <li aria-label="简体中文 (Chinese (Simplified))" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="简体中文 (Chinese (Simplified))" class="language-selector__link " data-tracking-control-name="language-selector-zh_CN" data-locale="zh_CN" role="menuitem" lang="zh_CN">
+                简体中文 (Chinese (Simplified))
+            </button>
+          </li>
+          <li aria-label="正體中文 (Chinese (Traditional))" class="language-selector__item">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="正體中文 (Chinese (Traditional))" class="language-selector__link " data-tracking-control-name="language-selector-zh_TW" data-locale="zh_TW" role="menuitem" lang="zh_TW">
+                正體中文 (Chinese (Traditional))
+            </button>
+          </li>
+      
+        </ul>
+
+          
+        <button class="language-selector__button" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
+                <span class="language-selector__label-text">Language</span>
+          <icon class="language-selector__label-chevron lazy-loaded" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" preserveAspectRatio="xMinYMin meet" focusable="false" class="lazy-loaded"><path d="M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z" fill="currentColor"></path></svg></icon>
+        </button>
+      
+    </div>
+  
+  
+          </li>
+      </ul>
+
+<!---->    </footer>
+  
+  
+  
+
+<!---->
+            
+
+  
+  
+  
+  
+
+    
+    
+
+    <div class="banner banner--tan conversion-banner conversion-banner--short show stuck">
+      <div class="banner__content">
+            
+        <div class="conversion-banner__content">
+          <h2 class="conversion-banner__text">
+              Join and learn more about Yogesh P
+          </h2>
+          <div>
+            <a class="conversion-banner__cta-link conversion-banner__cta-link--secondary" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fin%2Elinkedin%2Ecom%2Fin%2Fyogeshpchinchole&amp;fromSignIn=true&amp;trk=public_profile_conversion-banner-login-url" data-tracking-control-name="public_profile_conversion-banner-login-url" data-tracking-will-navigate="">
+                Sign in
+            </a>
+            <a class="conversion-banner__cta-link conversion-banner__cta-link--primary" href="https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=yogeshpchinchole&amp;trk=public_profile_conversion-banner-join-url" data-tracking-control-name="public_profile_conversion-banner-join-url" data-tracking-will-navigate="">
+                Join now
+            </a>
+          </div>
+        </div>
+      
+      </div>
+        <button class="banner__dismiss-button" aria-label="Dismiss" data-tracking-control-name="public_profile_banner">
+          <icon class="banner__dismiss-button-icon lazy-loaded" data-svg-class-name="banner__dismiss-button-icon-svg" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" focusable="false" class="banner__dismiss-button-icon-svg lazy-loaded">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="currentColor" d="M7.90356 9.19393l-3.3763 3.3763-1.29037-1.29037 3.3763-3.3763-3.3763-3.3763 1.29037-1.29037 3.3763 3.3763 3.3763-3.3763 1.29037 1.29037-3.3763 3.3763 3.3763 3.3763-1.29037 1.29037z"></path>
+    <path d="M0 0h16v16H0z"></path>
+  </g>
+</svg></icon>
+        </button>
+    </div>
+  
+  
+
+<!---->
+<!---->
+<!---->
+          
+          
+          
+          <code id="fid" style="display: none"><!--"AQHAz_M-bj4rlAAAAX77w2Pa4omj89Ihl95bSAcmjaM6bJRc0h12SzdTweuK-O0_y2Mc0bgwrdYLHQ"--></code>
+
+          
+
+          
+    <img class="bc lazy-loaded" style="display:none;" width="1" height="1" src="https://ponf.linkedin.com/pixel/tracking.png?reqid=tid-AAXYB3M6Mfgp073nAStoWA==&amp;pageInstance=urn:li:page:public_profile_v3_desktop;eIwdM0HASkqCR8hULUDICg==&amp;js=enabled">
+    <noscript>
+      <img class="bc " style="display:none;" width="1" height="1" src="https://ponf.linkedin.com/pixel/tracking.png?reqid=tid-AAXYB3M6Mfgp073nAStoWA==&amp;pageInstance=urn:li:page:public_profile_v3_desktop;eIwdM0HASkqCR8hULUDICg==&amp;js=disabled">
+    </noscript>
+  
+
+        
+    <script src="https://static-exp1.licdn.com/sc/h/86kbw5sohehg80f2ml85j6qbh" async=""></script>
+  
+      
+
+              <script src="https://static-exp1.licdn.com/sc/h/6qhvj2y4o6yf90py4820d8sg7" async=""></script>
+          
+          <script data-module-id="google-sign-in-lib" src="https://static-exp1.licdn.com/sc/h/etkd25e7kzp2lrg1w9y0kixlu" gapi_processed="true" class="lazy-loaded"></script>
+<!---->      
+      
+    
+  
+  <div class="top-level-modal-container"></div></body></html>
